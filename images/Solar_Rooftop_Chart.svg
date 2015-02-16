@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1129px" height="429.584px" viewBox="0 0 1129 429.584" enable-background="new 0 0 1129 429.584" xml:space="preserve">
+<symbol  id="solargraph" viewBox="-211 -114.644 422 226.672">
+	<polygon fill="#C5CCB8" points="211,-60.409 -211,-60.409 -211,112.028 211,112.028 	"/>
+	<text transform="matrix(1 0 0 -1 -134.1392 -111.459)" fill="#575756" font-family="'PTSans-Regular'" font-size="13">Rooftop Solar Energy by Land Area (kWh per m2)</text>
+	<text transform="matrix(1 0 0 -1 -205.2095 -76.8809)" fill="#575756" font-family="'PTSans-Regular'" font-size="13">0</text>
+	<text transform="matrix(1 0 0 -1 36.8076 -76.8809)" fill="#575756" font-family="'PTSans-Regular'" font-size="13">0.6</text>
+	<text transform="matrix(1 0 0 -1 191.8662 -76.8809)" fill="#575756" font-family="'PTSans-Regular'" font-size="13">1.0</text>
+	<text transform="matrix(1 0 0 -1 119.3408 -76.8809)" fill="#575756" font-family="'PTSans-Regular'" font-size="13">0.8</text>
+	<text transform="matrix(1 0 0 -1 -45.7256 -76.8809)" fill="#575756" font-family="'PTSans-Regular'" font-size="13">0.4</text>
+	<text transform="matrix(1 0 0 -1 -128.2588 -76.8809)" fill="#575756" font-family="'PTSans-Regular'" font-size="13">0.2</text>
+	<g>
+		<polygon fill="#D25627" points="-200.908,102.816 -119.133,102.816 -119.133,92.816 -200.908,92.816 		"/>
+	</g>
+	<g>
+		<polygon fill="#14A085" points="-200.908,80.585 -179.963,80.585 -179.963,70.585 -200.908,70.585 		"/>
+	</g>
+	<g>
+		<polygon fill="#3B97D3" points="-200.908,56.352 80.236,56.352 80.236,46.352 -200.908,46.352 		"/>
+	</g>
+	<g>
+		<polygon fill="#894B9D" points="-200.908,32.117 -9.018,32.117 -9.018,22.117 -200.908,22.117 		"/>
+	</g>
+	<g>
+		<polygon fill="#E57E25" points="-200.908,7.881 26.236,7.881 26.236,-2.118 -200.908,-2.118 		"/>
+	</g>
+	<g>
+		<polygon fill="#26B99A" points="-200.908,-16.353 69.51,-16.353 69.51,-26.353 -200.908,-26.353 		"/>
+	</g>
+	<g>
+		<polygon fill="#627F49" points="-200.908,-40.585 128.467,-40.585 128.467,-50.585 -200.908,-50.585 		"/>
+	</g>
+</symbol>
+<g id="solar_hot_water">
+</g>
+<g id="solarsummer">
+	
+		<use xlink:href="#solargraph"  width="422" height="226.672" id="XMLID_1_" x="-211" y="-114.644" transform="matrix(1.3235 0 0 -1.3235 564.5 214.8677)" overflow="visible"/>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 165.5879 90.6138)" fill="#D25627" font-family="'PTSans-Regular'" font-size="17.2055">Single Family</text>
+	<text transform="matrix(1 0 0 1 226.4951 120.0391)" fill="#14A085" font-family="'PTSans-Regular'" font-size="17.2055">Rural</text>
+	<text transform="matrix(1 0 0 1 209.2383 152.1138)" fill="#2980BA" font-family="'PTSans-Regular'" font-size="17.2055">Lowrise</text>
+	<text transform="matrix(1 0 0 1 203.9731 184.188)" fill="#894B9D" font-family="'PTSans-Regular'" font-size="17.2055">Highrise</text>
+	<text transform="matrix(1 0 0 1 188.7798 216.2529)" fill="#E57E25" font-family="'PTSans-Regular'" font-size="17.2055">Mixed Use</text>
+	<text transform="matrix(1 0 0 1 178.3369 248.333)" fill="#26B99A" font-family="'PTSans-Regular'" font-size="17.2055">Commercial</text>
+	<text transform="matrix(1 0 0 1 195.1992 280.4053)" fill="#627F49" font-family="'PTSans-Regular'" font-size="17.2055">Industrial</text>
+</g>
+</svg>

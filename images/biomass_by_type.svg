@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1129px" height="411px" viewBox="0 -90.708 1129 411" enable-background="new 0 -90.708 1129 411" xml:space="preserve">
+<symbol  id="biomasspie" viewBox="-170.444 -104.146 340.888 208.289">
+	<path fill="#C5CCB8" d="M-109.926,3.04c0,55.227,44.771,100,100,100c55.229,0,100-44.773,100-100c0-55.225-44.771-100-100-100
+		C-65.155-96.96-109.926-52.185-109.926,3.04z"/>
+	<path fill="#C5CCB8" d="M-100.153,2.974c0,49.83,40.395,90.229,90.227,90.229c49.831,0,90.227-40.398,90.227-90.229
+		c0-49.826-40.396-90.223-90.227-90.223C-59.759-87.249-100.153-46.853-100.153,2.974z"/>
+	<path fill="#D25627" d="M79.48,2.993c0,49.83-40.396,90.227-90.223,90.227v-0.018V2.894V2.893l0,0l-14.101-88.956
+		c4.934-0.831,10-1.27,15.166-1.27l0,0.113C39.657-86.648,79.48-46.482,79.48,2.993z"/>
+	<path fill="#26B99A" d="M-75.16,65.854c-5-5.196-9.361-11.011-12.991-17.312l77.725-45.247v89.906
+		C-36.009,93.202-58.902,82.755-75.16,65.854z"/>
+	<path fill="#894B9D" d="M-10.743,3.479l-77.408,45.063c-7.546-13.098-11.888-28.325-11.992-44.65h-0.01
+		c0-0.099,0.005-0.197,0.005-0.296c0-0.101-0.005-0.2-0.005-0.301h0.01c0.105-16.284,4.514-32.463,12.131-45.57l77.586,45.57l0,0
+		L-10.743,3.479z"/>
+	<path fill="#2980BA" d="M-88.012-42.274c13.249-22.801,36.205-39.248,63.169-43.789l14.417,89.359L-88.012-42.274z"/>
+	<text transform="matrix(1 0 0 -1 -156.4307 93.0938)" fill="#14A085" font-family="'PTSans-Regular'" font-size="13">HARDWOOD</text>
+	<text transform="matrix(1 0 0 -1 109.5659 -13.5723)" fill="#D25627" font-family="'PTSans-Regular'" font-size="13">Hemlock</text>
+	<text transform="matrix(1 0 0 -1 -170.4443 -1.0547)" fill="#894B9D" font-family="'PTSans-Regular'" font-size="13">FIR</text>
+	<text transform="matrix(1 0 0 -1 -111.0908 -100.9609)" fill="#3B97D3" font-family="'PTSans-Regular'" font-size="13">Cedar</text>
+</symbol>
+<g id="solar_hot_water">
+</g>
+<g id="biomasschart">
+</g>
+<use xlink:href="#biomasspie"  width="340.888" height="208.289" x="-170.444" y="-104.146" transform="matrix(1 0 0 -1 564.5 104.6299)" overflow="visible"/>
+</svg>

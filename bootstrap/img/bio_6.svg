@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="665px" height="420px" viewBox="0 0 665 420" enable-background="new 0 0 665 420" xml:space="preserve">
+<symbol  id="biomasschart" viewBox="-329.361 -209.408 661.705 418.751">
+	<polygon fill="#C5CCB8" points="328.707,-157.58 -96.596,-157.58 -96.596,209.343 328.707,209.343 	"/>
+	<text transform="matrix(1 0 0 -1 -261.8784 -206.1582)" fill="#565756" font-family="'PTSans-Regular'" font-size="13">municipality</text>
+	<g>
+		<g>
+			<polygon fill="#14A085" points="-84.201,-93.351 -80.114,-93.351 -80.114,-103.351 -84.201,-103.351 			"/>
+		</g>
+		<text transform="matrix(1 0 0 -1 -193.1348 -102.2852)" fill="#14A085" font-family="'PTSans-Regular'" font-size="13">anmore</text>
+	</g>
+	<text transform="matrix(1 0 0 -1 -29.4663 -206.1582)" fill="#565756" font-family="'PTSans-Regular'" font-size="13">Tonnes of stemwood biomass per year (x 1,000)</text>
+	<text transform="matrix(1 0 0 -1 -87.2944 -175.1582)" fill="#565756" font-family="'PTSans-Regular'" font-size="13">0</text>
+	<text transform="matrix(1 0 0 -1 310.3877 -175.1582)" fill="#565756" font-family="'PTSans-Regular'" font-size="13">150</text>
+	<text transform="matrix(1 0 0 -1 175.3867 -175.1582)" fill="#565756" font-family="'PTSans-Regular'" font-size="13">100</text>
+	<text transform="matrix(1 0 0 -1 44.0459 -175.1582)" fill="#565756" font-family="'PTSans-Regular'" font-size="13">50</text>
+	<g>
+		<g>
+			<polygon fill="#9778B5" points="-84.201,4.456 -75.075,4.456 -75.075,-5.544 -84.201,-5.544 			"/>
+		</g>
+		<text transform="matrix(1 0 0 -1 -201.8198 -4.4766)" fill="#9778B5" font-family="'PTSans-Regular'" font-size="13">BELcarra</text>
+	</g>
+	<g>
+		<g>
+			<polygon fill="#3B97D3" points="-84.201,77.811 -25.075,77.811 -25.075,67.811 -84.201,67.811 			"/>
+		</g>
+		<text transform="matrix(1 0 0 -1 -234.2871 68.8789)" fill="#3B97D3" font-family="'PTSans-Regular'" font-size="13">bowen island</text>
+	</g>
+	<g>
+		<g>
+			<polygon fill="#C03A2B" points="-84.201,102.264 -0.408,102.264 -0.408,92.264 -84.201,92.264 			"/>
+		</g>
+		<text transform="matrix(1 0 0 -1 -213.8184 93.332)" fill="#C03A2B" font-family="'PTSans-Regular'" font-size="13">coquitlam</text>
+	</g>
+	<g>
+		<g>
+			<polygon fill="#C03A2B" points="-84.201,-142.255 -81.884,-142.255 -81.884,-152.255 -84.201,-152.255 			"/>
+		</g>
+		<text transform="matrix(1 0 0 -1 -273.4297 -151.1875)" fill="#C03A2B" font-family="'PTSans-Regular'" font-size="13">langley (township)</text>
+	</g>
+	<g>
+		<g>
+			<polygon fill="#E57E25" points="-84.201,-68.899 -76.875,-68.899 -76.875,-78.899 -84.201,-78.899 			"/>
+		</g>
+		<text transform="matrix(1 0 0 -1 -204.1724 -77.832)" fill="#E57E25" font-family="'PTSans-Regular'" font-size="13">lions bay</text>
+	</g>
+	<g>
+		<g>
+			<polygon fill="#E57E25" points="-84.201,175.618 230.259,175.618 230.259,165.618 -84.201,165.618 			"/>
+		</g>
+		<text transform="matrix(1 0 0 -1 -222.3262 166.6855)" fill="#E57E25" font-family="'PTSans-Regular'" font-size="13">maple ridge</text>
+	</g>
+	<g>
+		<g>
+			<polygon fill="#894B9D" points="-84.201,-117.803 -80.114,-117.803 -80.114,-127.803 -84.201,-127.803 			"/>
+		</g>
+		<text transform="matrix(1 0 0 -1 -301.4502 -126.7344)" fill="#894B9D" font-family="'PTSans-Regular'" font-size="13">North Vancouver (city)</text>
+	</g>
+	<g>
+		<g>
+			<polygon fill="#14A085" points="-84.201,151.166 115.799,151.166 115.799,141.166 -84.201,141.166 			"/>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 -1 -329.8613 142.2344)" fill="#14A085" font-family="'PTSans-Regular'" font-size="13">North Vancouver (district)</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<polygon fill="#D25627" points="-84.201,53.359 -34.412,53.359 -34.412,43.359 -84.201,43.359 			"/>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 -1 -234.2021 44.4258)" fill="#D25627" font-family="'PTSans-Regular'" font-size="13">Pitt MEadows</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<polygon fill="#2980BA" points="-84.201,-44.447 -76.451,-44.447 -76.451,-54.447 -84.201,-54.447 			"/>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 -1 -249.6328 -53.3789)" fill="#2980BA" font-family="'PTSans-Regular'" font-size="13">port coquitlam</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<polygon fill="#26B99A" points="-84.201,28.908 -48.744,28.908 -48.744,18.908 -84.201,18.908 			"/>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 -1 -222.041 19.9766)" fill="#26B99A" font-family="'PTSans-Regular'" font-size="13">port moody</text>
+		</g>
+	</g>
+	<g>
+		<g>
+			<polygon fill="#E64C3C" points="-84.201,-19.996 -76.451,-19.996 -76.451,-29.996 -84.201,-29.996 			"/>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 -1 -186.8564 -28.9297)" fill="#E64C3C" font-family="'PTSans-Regular'" font-size="13">Surrey</text>
+		</g>
+	</g>
+	<g>
+		<polygon fill="#9778B5" points="-84.201,126.715 15.799,126.715 15.799,116.715 -84.201,116.715 		"/>
+		<g>
+			<text transform="matrix(1 0 0 -1 -251.7852 117.7813)" fill="#9778B5" font-family="'PTSans-Regular'" font-size="13">west vancouver</text>
+		</g>
+	</g>
+	<g>
+		<polygon fill="#2980BA" points="-84.201,200.07 320.799,200.07 320.799,190.07 -84.201,190.07 		"/>
+		<g>
+			<text transform="matrix(1 0 0 -1 -256.2373 191.1367)" fill="#2980BA" font-family="'PTSans-Regular'" font-size="13">electroal area a</text>
+		</g>
+	</g>
+</symbol>
+<use xlink:href="#biomasschart"  width="661.705" height="418.751" x="-329.361" y="-209.408" transform="matrix(1 0 0 -1 330.6909 209.5171)" overflow="visible"/>
+</svg>

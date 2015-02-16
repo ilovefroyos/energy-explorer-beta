@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1129px" height="391px" viewBox="0 100.292 1129 391" enable-background="new 0 100.292 1129 391" xml:space="preserve">
+<symbol  id="heatrecoverypie" viewBox="-218.713 -125.831 437.425 251.662">
+	<path fill="#C5CCB8" d="M-57.023-0.272c0,55.227,44.771,100,100,100c55.229,0,100-44.773,100-100c0-55.225-44.771-100-100-100
+		C-12.252-100.272-57.023-55.497-57.023-0.272z"/>
+	<path fill="#C5CCB8" d="M-47.25-0.339c0,49.83,40.395,90.228,90.226,90.228c49.83,0,90.227-40.397,90.227-90.228
+		c0-49.826-40.396-90.223-90.227-90.223C-6.855-90.562-47.25-50.165-47.25-0.339z"/>
+	<text transform="matrix(1 0 0 -1 -11.2065 114.7812)" fill="#9778B5" font-family="'PTSans-Regular'" font-size="13">Other</text>
+	<text transform="matrix(1 0 0 -1 -171.4849 40.2676)" fill="#14A085" font-family="'PTSans-Regular'" font-size="13">Iron and Steel</text>
+	<text transform="matrix(1 0 0 -1 -219.8501 -4.2734)" fill="#C03A2B" font-family="'PTSans-Regular'" font-size="13">Non metallic mineral</text>
+	<text transform="matrix(1 0 0 -1 -199.2524 -46.2852)" fill="#3B97D3" font-family="'PTSans-Regular'" font-size="13">food and beverage</text>
+	<text transform="matrix(1 0 0 -1 167.4668 -16.8867)" fill="#C03A2B" font-family="'PTSans-Regular'" font-size="13">Cement</text>
+	<text transform="matrix(1 0 0 -1 -110.5537 85.8887)" fill="#E57E25" font-family="'PTSans-Regular'" font-size="13">Wood Based</text>
+	<text transform="matrix(1 0 0 -1 -119.5693 -98.6465)"><tspan x="0" y="0" fill="#26B99A" font-family="'PTSans-Regular'" font-size="13">Chemicals and</tspan><tspan x="13.123" y="24" fill="#26B99A" font-family="'PTSans-Regular'" font-size="13">Petroleum</tspan></text>
+	<path fill="#E57E25" d="M42.433,0.938c0.02-0.179,0.035-0.283,0.043-0.294L42.433,0.938z"/>
+	<path fill="#E64C3C" d="M132.384-0.319c0,49.83-40.398,90.227-90.223,90.227V89.89V0.999l0.5-0.562l-18.867-88.98
+		c1.41-0.308,2.832-0.591,4.266-0.832c4.934-0.831,10-1.27,15.166-1.27v0.113c22.893,0.266,43.734,9.061,59.504,23.353l0,0
+		C120.941-50.674,132.384-26.836,132.384-0.319z"/>
+	<path fill="#26B99A" d="M-36.914-42.285c0.582-1.118,1.179-2.224,1.805-3.302C-22.565-67.175-1.316-83.06,23.794-88.544
+		L42.453-0.549L-36.914-42.285z"/>
+	<path fill="#3B97D3" d="M-45.713-16.265c1.673-9.241,4.677-18.109,8.799-26.021L42.453-0.549l0.209,0.985L-45.713-16.265z"/>
+	<path fill="#C03A2B" d="M-46.386,12.584c-0.538-3.922-0.828-7.929-0.854-12.004h-0.01c0-0.099,0.005-0.197,0.005-0.296
+		c0-0.102-0.005-0.2-0.005-0.301h0.01c0.035-5.467,0.562-10.919,1.527-16.248L42.662,0.437L-46.386,12.584z"/>
+	<path fill="#26B99A" d="M42.662-0.272"/>
+	<path fill="#14A085" d="M-35.007,45.047c-5.662-9.828-9.521-20.856-11.139-32.646L42.662,0.437L-32.289,49.46
+		C-33.234,48.017-34.144,46.547-35.007,45.047z"/>
+	<path fill="#E57E25" d="M42.162,3.078L42.162,3.078L24.49,88.099c-2.441-0.488-4.852-1.063-7.213-1.743
+		c-2.783-0.801-5.506-1.738-8.166-2.792c-9.656-3.82-18.466-9.249-26.1-15.983c-1.822-1.608-3.584-3.286-5.269-5.038
+		c-3.809-3.96-7.245-8.279-10.271-12.898L42.662,0.437l0,0L42.162,3.078z"/>
+	<path fill="#894B9D" d="M42.662,0.437L42.662,0.437L42.662,0.437L42.476,89.89c-1.873,0-3.725-0.076-5.566-0.189l0.014-0.217
+		c-0.391-0.021-0.785-0.038-1.176-0.067c-1.979-0.148-3.941-0.354-5.883-0.627c-1.75-0.246-3.477-0.554-5.191-0.897L42.662,0.437
+		L42.662,0.437L42.662,0.437z M42.662,0.437l-0.043,0.296"/>
+</symbol>
+<g id="solar_hot_water">
+</g>
+<g id="solargraph">
+	
+		<use xlink:href="#heatrecoverypie"  width="437.425" height="251.662" id="XMLID_1_" x="-218.713" y="-125.831" transform="matrix(1 0 0 -1 522.4673 294.6455)" overflow="visible"/>
+	<g id="heatrecoverygraph">
+	</g>
+</g>
+<g id="rorpie">
+</g>
+</svg>

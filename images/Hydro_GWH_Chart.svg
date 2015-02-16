@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="784px" height="299px" viewBox="172.5 66.792 784 299" enable-background="new 172.5 66.792 784 299" xml:space="preserve">
+<g id="solar_hot_water">
+</g>
+<g>
+	<g id="solargraph">
+		<text transform="matrix(1 0 0 1 567.3691 346.0713)" fill="#565756" font-family="'PTSans-Regular'" font-size="17.1521">Gigawatt Hours per Year</text>
+		<g>
+			<text transform="matrix(1 0 0 1 399.3491 306.2373)" fill="#6D6D6D" font-family="'PTSans-Regular'" font-size="17.1521">0</text>
+			<text transform="matrix(1 0 0 1 797.498 300.2764)" fill="#6D6D6D" font-family="'PTSans-Regular'" font-size="17.1521">150</text>
+			<text transform="matrix(1 0 0 1 913.5977 302.2783)" fill="#6D6D6D" font-family="'PTSans-Regular'" font-size="17.1521">200</text>
+			<text transform="matrix(1 0 0 1 661.3799 300.2764)" fill="#6D6D6D" font-family="'PTSans-Regular'" font-size="17.1521">100</text>
+			<text transform="matrix(1 0 0 1 530.3667 300.2764)" fill="#6D6D6D" font-family="'PTSans-Regular'" font-size="17.1521">50</text>
+		</g>
+		<rect x="391.71" y="75.106" fill="#C5CCB8" width="556.784" height="203.417"/>
+		<g>
+			<rect x="404.519" y="91.938" fill="#D25627" width="29.189" height="13.194"/>
+		</g>
+		<g>
+			<rect x="404.199" y="124.011" fill="#14A085" width="27.639" height="13.193"/>
+		</g>
+		<g>
+			<rect x="404.199" y="156.085" fill="#3B97D3" width="47.869" height="13.193"/>
+		</g>
+		<g>
+			<rect x="404.199" y="188.161" fill="#894B9D" width="5.395" height="13.193"/>
+		</g>
+		<g>
+			<rect x="404.199" y="220.233" fill="#E57E25" width="272.554" height="13.195"/>
+		</g>
+		<g>
+			<rect x="404.199" y="252.306" fill="#26B99A" width="506.361" height="13.194"/>
+		</g>
+	</g>
+	<g id="rorpie">
+		<g>
+			<text transform="matrix(1 0 0 1 300.6685 103.7383)" fill="#D25627" font-family="'PTSans-Regular'" font-size="17.2055">Lions Bay</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 279.8169 135.8105)" fill="#14A085" font-family="'PTSans-Regular'" font-size="17.2055">Maple Ridge</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 181.144 167.8848)" fill="#2980BA" font-family="'PTSans-Regular'" font-size="17.2055">North Vancouver (District)</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 271.9712 199.9619)" fill="#894B9D" font-family="'PTSans-Regular'" font-size="17.2055">Pitt Meadows</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 254.1973 232.0342)" fill="#E57E25" font-family="'PTSans-Regular'" font-size="17.2055">West Vancouver</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 253.4917 264.1055)" fill="#26B99A" font-family="'PTSans-Regular'" font-size="17.2055">Electoral Area A</text>
+		</g>
+	</g>
+</g>
+</svg>

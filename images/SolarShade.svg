@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="500px" height="500px" viewBox="0 0 500 500" enable-background="new 0 0 500 500" xml:space="preserve">
+<symbol  id="solarpanel" viewBox="-60.075 -36.765 120.15 73.529">
+	<g>
+		<polygon fill="#576D75" points="14.848,-36.765 0.212,-36.765 0.212,-8.505 14.848,-8.505 		"/>
+		<polygon fill="#97B0BA" points="4.131,-8.505 0.212,-8.505 0.212,-36.765 4.131,-36.765 		"/>
+	</g>
+	<g>
+		<polygon fill="#2980BA" stroke="#FFFFFF" stroke-miterlimit="10" points="59.212,-11.526 -30.255,-16.657 -59.217,31.134 
+			-14.636,33.69 29.971,36.248 		"/>
+		<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="15.389" y1="-14.039" x2="-13.715" y2="33.743"/>
+		<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="-9.255" y1="-15.452" x2="-38.283" y2="32.334"/>
+		<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="40.035" y1="-12.626" x2="10.854" y2="35.152"/>
+		<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="-44.752" y1="7.266" x2="44.575" y2="12.388"/>
+	</g>
+</symbol>
+<symbol  id="sun_2" viewBox="-102.17 -102.169 204.34 204.339">
+	<g id="suns_4_" opacity="0.15">
+		<radialGradient id="SVGID_1_" cx="0" cy="0" r="102.1697" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#FCD413"/>
+		</radialGradient>
+		<path fill="url(#SVGID_1_)" d="M0.002,102.17c56.423,0,102.168-45.744,102.168-102.167c0-56.433-45.745-102.172-102.168-102.172
+			c-56.428,0-102.172,45.74-102.172,102.172C-102.17,56.426-56.425,102.17,0.002,102.17z"/>
+	</g>
+	<g id="suns_3_">
+		<path fill="#FCD413" stroke="#E2CC7D" stroke-width="1.6642" stroke-miterlimit="10" d="M0.001,43.782
+			c24.179,0,43.781-19.604,43.781-43.781c0-24.183-19.603-43.783-43.781-43.783c-24.181,0-43.783,19.602-43.783,43.783
+			C-43.782,24.18-24.179,43.782,0.001,43.782z"/>
+	</g>
+</symbol>
+<g>
+	<g opacity="0.8">
+		
+			<use xlink:href="#solarpanel"  width="120.15" height="73.529" x="-60.075" y="-36.765" transform="matrix(0.6458 0 0 -0.6458 148.8081 207.165)" overflow="visible"/>
+		
+			<use xlink:href="#solarpanel"  width="120.15" height="73.529" x="-60.075" y="-36.765" transform="matrix(0.6458 0 0 -0.6458 241.8447 207.165)" overflow="visible" opacity="0.8"/>
+		
+			<use xlink:href="#solarpanel"  width="120.15" height="73.529" x="-60.075" y="-36.765" transform="matrix(0.6458 0 0 -0.6458 334.8809 207.165)" overflow="visible" opacity="0.8"/>
+		
+			<use xlink:href="#solarpanel"  width="120.15" height="73.529" x="-60.075" y="-36.765" transform="matrix(0.6458 0 0 -0.6458 55.772 207.165)" overflow="visible" opacity="0.8"/>
+	</g>
+	<g opacity="0.9">
+		
+			<use xlink:href="#solarpanel"  width="120.15" height="73.529" x="-60.075" y="-36.765" transform="matrix(0.7047 0 0 -0.7047 207.7495 248.0293)" overflow="visible"/>
+		
+			<use xlink:href="#solarpanel"  width="120.15" height="73.529" x="-60.075" y="-36.765" transform="matrix(0.7047 0 0 -0.7047 309.2646 248.0293)" overflow="visible" opacity="0.9"/>
+		
+			<use xlink:href="#solarpanel"  width="120.15" height="73.529" x="-60.075" y="-36.765" transform="matrix(0.7047 0 0 -0.7047 410.7793 248.0293)" overflow="visible" opacity="0.9"/>
+		
+			<use xlink:href="#solarpanel"  width="120.15" height="73.529" x="-60.075" y="-36.765" transform="matrix(0.7047 0 0 -0.7047 106.2349 248.0293)" overflow="visible" opacity="0.9"/>
+	</g>
+	<g>
+		
+			<use xlink:href="#solarpanel"  width="120.15" height="73.529" x="-60.075" y="-36.765" transform="matrix(0.8513 0 0 -0.8513 273.3398 294.4023)" overflow="visible"/>
+		
+			<use xlink:href="#solarpanel"  width="120.15" height="73.529" x="-60.075" y="-36.765" transform="matrix(0.8513 0 0 -0.8513 389.1182 294.4023)" overflow="visible"/>
+		
+			<use xlink:href="#solarpanel"  width="120.15" height="73.529" x="-60.075" y="-36.765" transform="matrix(0.8513 0 0 -0.8513 157.562 294.4023)" overflow="visible"/>
+	</g>
+	
+		<use xlink:href="#sun_2"  width="204.34" height="204.339" x="-102.17" y="-102.169" transform="matrix(0.8225 0 0 -0.8225 389.042 84.0352)" overflow="visible"/>
+	<g>
+		<g>
+			
+				<line fill="none" stroke="#FCD320" stroke-width="3" stroke-miterlimit="10" x1="377.443" y1="97.068" x2="374.44" y2="102.264"/>
+			
+				<line fill="none" stroke="#FCD320" stroke-width="3" stroke-miterlimit="10" stroke-dasharray="11.3117,11.3117" x1="368.778" y1="112.057" x2="281.023" y2="263.846"/>
+			<polyline fill="none" stroke="#FCD320" stroke-width="3" stroke-miterlimit="10" points="278.192,268.742 275.189,273.937 
+				269.755,271.393 			"/>
+			
+				<line fill="none" stroke="#FCD320" stroke-width="3" stroke-miterlimit="10" stroke-dasharray="11.431,11.431" x1="259.402" y1="266.546" x2="57.525" y2="172.036"/>
+			
+				<line fill="none" stroke="#FCD320" stroke-width="3" stroke-miterlimit="10" x1="52.349" y1="169.612" x2="46.915" y2="167.068"/>
+		</g>
+	</g>
+	<polyline fill="#FCD320" points="43.801,179.003 38.861,162.074 55.79,157.135 	"/>
+	<g>
+		
+			<image overflow="visible" enable-background="new    " width="168" height="88" xlink:href="29EA8674FF7C2770.png"  transform="matrix(1 0 0 1 214.0239 54.8506)">
+		</image>
+		<g>
+			<path fill="#FBFCFE" d="M274.719,128.069c0,0-70.931,2.235-41.333-12.293c0,0,17.864-5.028,20.101-4.471
+				c0,0,5.588-15.086,16.205-11.175c0,0-2.235-24.026,18.438-21.792c0,0,26.821-29.058,43.025,9.498c0,0,27.939-3.354,31.292,16.764
+				c0,0,26.264,27.627-25.146,23.593C337.302,128.193,302.101,134.217,274.719,128.069z"/>
+		</g>
+	</g>
+	<g>
+		
+			<image overflow="visible" enable-background="new    " width="134" height="53" xlink:href="29EA8674FF7C2771.png"  transform="matrix(1 0 0 1 349.0234 91.8506)">
+		</image>
+		<g>
+			<path fill="#E9F0F0" d="M362.924,118.416c1.422-3.277,8.023-6.756,12.797-6.363c0,0,9.476-8.271,17.428-2.545
+				c0,0,12.091-10.697,18.135-2.326c0,0,12.408-1.91,14.316,4.186c0,0,11.611-3.769,16.702,4.662c0,0,1.749,0.515,2.544,2.724
+				c0,0,9.705-3.52,11.613,4.437c0,0,6.841-0.795,6.682,2.545c0,0,6.51,3.896,7.306,6.122h-17.805h-8.318h-19.875h-37.375h-14.875
+				C372.198,131.855,357.504,130.9,362.924,118.416z"/>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,142 @@
+/* Builder CSS */
+.image_background_start_edit { cursor: pointer; width: 40px; height: 40px; background: url("../img/edit_media_comp.png") no-repeat center; position: absolute; top: 100px; left: 100px; z-index: 98; }
+
+.edit_icon_relative .image_background_start_edit { position: relative; top: 0px; }
+
+.edit_inline_fix_top .edit_inline_start_edit { cursor: pointer; width: 40px; height: 40px; background: url("../img/edit_comp.png") no-repeat center; position: absolute; top: 0; left: -45px; z-index: 98; display: block; }
+
+.edit_inline_fix_margin .edit_inline_start_edit { cursor: pointer; width: 40px; height: 40px; background: url("../img/edit_comp.png") no-repeat center; position: absolute; left: 0 !important; z-index: 98; display: block; }
+.edit_inline_fix_margin .save_edit_icon { margin-top: 45px !important; }
+.edit_inline_fix_margin .color_edit_icon { margin-top: 90px; }
+
+.edit_inline_start_edit.save_edit_icon, .edit_inline_start_edit.cancel_edit_icon, .edit_inline_start_edit.color_edit_icon { cursor: pointer; width: 40px; height: 40px; position: absolute; left: -45px; z-index: 98; display: none; }
+
+.edit_icon_posit_left .edit_inline_start_edit { left: 100% !important; margin-left: -46px; }
+.edit_icon_posit_left .edit_inline_start_edit.save_edit_icon, .edit_icon_posit_left .edit_inline_start_edit.cancel_edit_icon, .edit_icon_posit_left .edit_inline_start_edit.color_edit_icon { left: 100% !important; margin-left: -46px; }
+.edit_icon_posit_left .edit_inline_start_edit.save_edit_icon { margin-top: 45px; }
+.edit_icon_posit_left .edit_inline_start_edit.color_edit_icon { margin-top: 90px; }
+
+.edit_icon_posit_fullleft .edit_inline_start_edit { left: 100% !important; }
+.edit_icon_posit_fullleft .edit_inline_start_edit.save_edit_icon, .edit_icon_posit_fullleft .edit_inline_start_edit.cancel_edit_icon, .edit_icon_posit_fullleft .edit_inline_start_edit.color_edit_icon { left: 100% !important; }
+
+.edit_inline_fix_top .edit_inline_start_edit.cancel_edit_icon { top: 0; }
+.edit_inline_fix_top .edit_inline_start_edit.save_edit_icon { top: 46px; }
+.edit_inline_fix_top .edit_inline_start_edit.color_edit_icon { top: 92px; }
+
+.edit_inline_start_edit.save_edit_icon { background: url("../img/save_comp.png") no-repeat center; margin-top: 0px; }
+.edit_inline_start_edit.cancel_edit_icon { background: url("../img/close_comp.png") no-repeat center; }
+.edit_inline_start_edit.color_edit_icon { background: url("../img/comp_color_square.png") no-repeat center; background-color: white; }
+.edit_inline_start_edit.set_color_text { display: block; position: relative; margin: 5px; top: 46px !important; left: -5px; background: url("../img/comp_color_square_small.png") no-repeat center; background-color: white; width: 20px; height: 20px; background-size: 20px; margin-top: 5px !important; }
+
+.image_background_start_edit .chose_type { width: 225px; height: 56px; background: url("../img/choose_media_type.png") no-repeat center; display: none; opacity: 0; cursor: pointer; margin-top: 42px; left: -90px; position: absolute; }
+.image_background_start_edit .chose_type_list { width: 231px; height: 141px; background: url("../img/choose_media_type_list.png") no-repeat center; display: none; opacity: 0; cursor: pointer; position: absolute; margin-top: 92px; z-index: 2; left: -90px; }
+.image_background_start_edit .chose_type_list .lists_type { display: block; text-align: center; padding: 10px; }
+.image_background_start_edit .chose_type_list .lists_type.poi { padding-top: 20px; }
+
+.hidden_input { visibility: hidden !important; opacity: 0 !important; width: 1px; height: 1px; }
+
+/* END Builder CSS*/
+#page .span1.admin_panel, #page .dropdown-menu { background-color: #c5ccb8; }
+#page .border-right { border-right: none; }
+
+.first_step, .select_template { font-family: Oswald; }
+
+.first_step .span12 { text-align: center; }
+.first_step > .row-fluid { margin: 50px auto !important; }
+
+.select_template > .row-fluid { margin: 0 auto !important; padding: 20px 0; }
+
+.first_step > .row-fluid > .span12 p { font-size: 40px; line-height: 45px; color: #444443; text-align: center; font-weight: normal; }
+
+.select_template > .row-fluid > .span12 p { font-size: 37pt; line-height: 40px; color: #444443; text-align: center; }
+.select_template .sections_bg { width: 254px; margin: 50px; }
+.select_template .sections_bg img { border: 2px solid #c5ccb8; }
+.select_template .span4.sections_bg:first-child { margin: 50px; }
+.select_template .span4.sections_bg a span { color: #444443; font-family: 'Open Sans'; font-size: 16pt; line-height: 16pt; text-align: center; padding: 10px 5px; display: block; min-height: 70px; }
+
+.first_step .span4.sections_bg { height: 250px; width: 250px; text-align: center; font-size: 40px; line-height: 45px; padding-top: 73px; margin: 50px; font-weight: normal; }
+.first_step .span4.sections_bg:first-child { margin: 50px; }
+.first_step .span4.sections_bg a { color: #fff; }
+
+#page .dropdown-menu { margin-top: 70px; }
+#page .dropdown-menu:not([role="menu"]) > li .img_test.add_adm { background: url("../img/add_adm.png") no-repeat center center; height: 23px; width: 17px; margin: 12px auto; }
+#page .dropdown-menu:not([role="menu"]) > li .img_test.unp_adm { background: url("../img/unp_adm.png") no-repeat center center; height: 15px; width: 16px; margin: 16px auto; }
+#page .dropdown-menu:not([role="menu"]) > li .img_test.edit_adm { background: url("../img/edit_adm.png") no-repeat center center; height: 17px; width: 25px; margin: 19px auto; }
+#page .dropdown-menu:not([role="menu"]) > li .img_test.reorder_adm { background: url("../img/reorder_adm.png") no-repeat center center; height: 15px; width: 15px; margin: 16px auto; }
+
+.row_list .edit_page_name { text-align: center; font-family: 'Open Sans'; font-size: 16pt; line-height: 16pt; color: #fff; width: 270px; margin: 0 auto; padding: 20px 25px; background-color: #26b99a; cursor: move; border-radius: 2px; -moz-border-radius: 2px; -webkit-border-radius: 2px; }
+.row_list .edit_page_name.presave { width: 190px; border-right: 3px solid #14A085; border-bottom: 3px solid #14A085; cursor: pointer; }
+.row_list .arrow { width: 7px; height: 50px; margin: 0 auto; background: url("../img/reorder_g.png") no-repeat; }
+.row_list .arrow.white { width: 7px; height: 50px; margin: 0 auto; background: url("../img/reorder_w.png") no-repeat; }
+.row_list .edit_page:first-child .arrow { width: 7px; height: 50px; margin: 0 auto; background: url("../img/reorder_w.png") no-repeat; }
+
+.select_template.button_block { width: 300px; margin: 0 auto; }
+.select_template.two_button_block { width: 190px; margin: 0 auto; }
+.select_template .save_reorder, .select_template .back_step, .select_template .next_step { width: 70px; height: 70px; margin: 50px 15px; background: url("../img/save_reorder.png") no-repeat; cursor: pointer; position: relative; z-index: 1; display: inline-block; background-size: 70px; }
+.select_template .save_reorder.center { display: block; margin: 50px auto; }
+.select_template .back_step { margin: 50px auto; background: url("../img/back_step.png") no-repeat; background-size: 70px; }
+.select_template .next_step { margin: 50px auto; background: url("../img/next_step.png") no-repeat; background-size: 70px; }
+.select_template .back_step.position_absolute { position: absolute; margin: 0; margin-top: -50px; }
+.select_template .back_step.position_absolute.closepopup { margin-top: -150px; }
+.select_template .save_reorder span, .select_template .back_step span, .select_template .next_step span { position: relative; top: 85px; left: 9px; font-family: 'Open Sans'; font-size: 16pt; }
+
+.section_bg_popup { width: 100%; height: 100%; position: absolute; background-color: rgba(0, 0, 0, 0.7); z-index: 99; opacity: 0; }
+.section_bg_popup span { color: white; display: block; text-align: center; margin-top: 15%; font-family: 'Open Sans'; font-size: 16pt; line-height: 16pt; margin-bottom: 90px; }
+.section_bg_popup .media_popup_load { display: inline-block; width: 500px; height: 300px; background-color: #fff; color: #444443; font-family: "Open Sans"; font-size: 16pt; position: fixed; left: 33%; top: 30%; }
+.section_bg_popup .media_popup_load .media_popup_load_close { height: 40px; width: 40px; float: right; display: inline; position: relative; margin-right: -40px; margin-top: -40px; background: url("../img/close_comp.png") no-repeat center; cursor: pointer; }
+.section_bg_popup .media_popup_load .media_text { display: block; margin: 0; color: #444443; font-family: 'Open Sans'; font-size: 15pt; margin-top: 85px; margin: 85px auto 0px auto; width: 350px; }
+.section_bg_popup .media_popup_load .media_input_info { display: block; border: 1px solid #c5ccb8; width: 300px; height: 38px; line-height: 38px; margin-left: 75px; margin-top: 20px; padding-left: 7px; cursor: pointer; }
+.section_bg_popup .media_popup_load .media_input_icon { height: 40px; width: 40px; display: block; position: absolute; background: url("../img/open_link.png") no-repeat center; margin-left: 381px; margin-top: -40px; cursor: pointer; }
+
+.select_template .white_reorder_text { display: block; color: #fff; font-family: 'Open Sans'; font-size: 16pt; line-height: 16pt; text-align: center; }
+.select_template .black_reorder_text { display: block; color: #444443; font-family: 'Open Sans'; font-size: 16pt; line-height: 16pt; text-align: center; }
+
+.unpb_page .edit_page_name { cursor: pointer; }
+.unpb_page .edit_page { margin: 50px auto; }
+.unpb_page .arrow { visibility: hidden; }
+.unpb_page .edit_page .panel_unpbl { display: none; }
+.unpb_page .edit_page:hover .panel_unpbl, .unpb_page .edit_page.active .panel_unpbl { display: block; }
+.unpb_page .panel_unpbl { position: absolute; margin-left: 310px; margin-top: -36px; }
+.unpb_page .panel_unpbl .view_pg, .unpb_page .panel_unpbl .unpbl_pg, .unpb_page .panel_unpbl .del_pg { cursor: pointer; background-position-x: 0px; display: inline-block; float: left; margin: 5px; }
+.unpb_page .panel_unpbl .view_pg { width: 41px; height: 41px; background: url("../img/view_page.png") no-repeat; }
+.unpb_page .panel_unpbl .view_pg:hover, .unpb_page .panel_unpbl .view_pg.active { background-position-x: -41px; }
+.unpb_page .panel_unpbl .unpbl_pg { width: 41px; height: 41px; background: url("../img/unpbl_page.png") no-repeat; }
+.unpb_page .panel_unpbl .unpbl_pg:hover, .unpb_page .panel_unpbl .unpbl_pg.active { background-position-x: -41px; }
+.unpb_page .panel_unpbl .del_pg { width: 41px; height: 41px; background: url("../img/remove_page.png") no-repeat; }
+.unpb_page .panel_unpbl .del_pg:hover, .unpb_page .panel_unpbl .del_pg.active { background-position-x: -41px; }
+
+.button_cee { display: block; width: 236px; height: 45px; background-color: #fff; border-bottom: 3px solid #26b99a; border-right: 3px solid #26b99a; text-align: center; color: #444443; line-height: 45px; font-family: 'Open Sans'; font-size: 16pt; margin: 24px auto; cursor: pointer; }
+
+#page .border-right.admin_site { background-color: transparent; display: block; width: 100%; max-width: 95%; margin-top: 50px; border: none; }
+#page .border-right.admin_site .close_step { width: 40px; height: 40px; background: url("../img/close_comp.png") no-repeat; float: right; position: relative; margin-top: -40px; margin-right: -40px; cursor: pointer; }
+
+.other_bg { background-color: #c5ccb8; padding: 50px 0px; }
+
+.admin_site .title { margin: 20px auto; }
+
+.row_sections.isotope { top: -25px; }
+
+.not_display { display: none !important; }
+
+.fix_iframe .line:after { border: none; }
+.fix_iframe .text-iner-right { width: 100% !important; }
+.fix_iframe .largearrowrights { font-family: 'PT Sans', sans-serif; width: 95%; right: 56px; font-size: 16px; line-height: 30px; color: #fff; margin-top: 5px; margin-left: 41px; margin-bottom: 13px; }
+.fix_iframe .label-right { border: none; padding-left: 0; }
+.fix_iframe .label-left { border: none; }
+
+.admin_panel .dropdown-submenu span:not(.icon_menu) { opacity: 1 !important; }
+
+.white { background-color: #ffffff; }
+
+#page .dropdown-submenu.energy_menu .dropdown-menu:not([role="menu"]) > li.actives, li.actives .icon_menu_dropdown { background-color: #C0392B !important; cursor: pointer; }
+
+.admin_panel_top { display: none; width: 96%; line-height: 45px; padding: 0 2%; height: 45px; background-color: #3B3D3E; background-color: rgba(59, 61, 62, 0.71); }
+.admin_panel_top .mode { float: left; }
+.admin_panel_top .log_out { float: right; }
+.admin_panel_top .log_out, .admin_panel_top .mode { font-family: Open Sans; font-size: 16px; text-transform: uppercase; color: #FFFFFF !important; }
+
+.svg_charts { width: 500px; height: 500px; margin: 0 auto; display: block; }
+
+.media_popup_load input[id^="type_chart"] { width: 50px; margin-left: 30px; margin-right: 15px; }
+
+.save_charts { display: block; margin: 10px auto; cursor: pointer; }

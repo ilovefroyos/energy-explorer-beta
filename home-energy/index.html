@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset=utf-8 />
+		<title>Home Energy Map</title>
+		
+		<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+		<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+		
+		<script src="http://danzel.github.io/Leaflet.utfgrid/src/leaflet.utfgrid.js"></script>
+		
+		<link rel="stylesheet" href="css/main.css">
+		
+		<script src="http://d3js.org/d3.v3.min.js"></script>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+		
+		<script src="./GeoSearch/src/js/l.control.geosearch.js"></script>
+		<script src="./GeoSearch/src/js/l.geosearch.provider.google.js"></script>
+		<link rel="stylesheet" href="./GeoSearch/src/css/l.geosearch.css" />
+				
+		
+	</head>
+	<body>
+		<div id='map'></div>
+		<div class='disclaimer'>
+			<div class="he">YOUR HOME ENERGY USE</div>
+			<div class="he2"><textsemi>Disclaimer</textsemi>: We don't know how much energy you actually use, but we can make an educated guess based on the age of your home and its size.  This map is meant to encourage you to start thinking about reducing your energy use and carbon footprint... your neighbours are.</div>
+			<div class="svg"><img src="img/cee_go.svg" width=125px><br>
+			GO
+			<script>
+				$('.disclaimer').on('click', function() {
+    				$('.disclaimer').toggleClass('clicked');
+					});
+			</script>
+		  </div>
+		</div>
+			<a href="http://www.energyexplorer.ca/blog/your-home-energy-use" target="_blank" style="text-decoration: none"><div class='info'>i</div></a>
+			<div class='legend'>
+				<div class='legendSel'>
+					<legendUnit1>$</legendUnit1><br>
+					<legendUnit2>GJ</legendUnit2><br>
+					<script>
+						$(".legend").click(function() {
+							var test = $("legendUnit1").css("font-weight");
+							if (test == "200") {
+								$("legendUnit1").css({
+									'color': 'rgba(255, 255, 255, 1)',
+									'font-weight': '800',
+									});
+								$("legendUnit2").css({
+									'color': 'rgba(255, 255, 255, 0.5)',
+									'font-weight': '200',
+									});
+								$("#legendBars").attr('src', "img/legend_dlr.svg");
+								$('unit').text("Costs");
+								}
+							else if (test == "800") {
+								$("legendUnit2").css({
+									'color': 'rgba(255, 255, 255, 1)',
+									'font-weight': '800',
+									});
+								$("legendUnit1").css({
+									'color': 'rgba(255, 255, 255, 0.5)',
+									'font-weight': '200',
+									});
+								$("#legendBars").attr('src', "img/legend_gj.svg");
+    							$('unit').text("Use");
+								}
+							});
+					</script>
+				</div>
+			Annual Home Energy <unit>Use</unit><br>
+			<img src="img/legend_gj.svg" id="legendBars">
+			</div>
+		
+			<script>
+				var he_map = L.tileLayer('http://tileserver-klooj.rhcloud.com/dark_units/{z}/{x}/{y}.png');
+
+				// url to utf-8 grid json
+				var utfGrid = new L.UtfGrid('http://tileserver-klooj.rhcloud.com/dark_units/{z}/{x}/{y}.grid.json', {
+		    			useJsonP: false
+					});
+					
+				// add popup behaviour
+				utfGrid.on('click', function (e) {
+						if (!e.data) return;
+						var popup = L.popup()
+							.setLatLng(e.latlng)
+							.setContent("<b><font color='white'>"+e.data.address.toString()+
+							"</b></font><br><br>Energy Estimate: <b><font color='white'>" + (e.data.mji / 1000).toFixed(0).toString()+
+							" GJ</b></font><br>Percentile: <b><font color='white'>" + e.data.percentile.toString()+ 
+							"th</b></font><br> Floor Area: <b><font color='white'>" + e.data.areai.toString() + 
+							" sq m</b></font><br> Home Built*: <b><font color='white'>" + e.data.year_eff.toString()+
+							"</b></font><br><br>*<font size='1'><i>Date adjusted for major renovations</i></font>")
+							.openOn(map)
+					});
+					
+				var map = L.map('map', {
+					maxZoom: 16,
+					minZoom: 11,
+					maxBounds: [[48.9045, -123.5001], [49.5029, -122.3232]],
+					attributionControl: false
+					})
+					.setView([49.2503, -123.062],11)
+					.addLayer(he_map)
+					.addLayer(utfGrid);
+				
+				new L.Control.GeoSearch({
+            			provider: new L.GeoSearch.Provider.Google({
+            				region: 'ca'})
+        			}).addTo(map);
+			</script>
+	</body>
+</html>

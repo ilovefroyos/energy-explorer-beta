@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="65.781593"
+   height="75.038506"
+   id="svg3638"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Map_cleaner.svg">
+  <defs
+     id="defs3640">
+    <clipPath
+       id="SVGID_30_">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         y="0"
+         x="0"
+         xlink:href="#SVGID_29_"
+         style="overflow:visible"
+         id="use271" />
+    </clipPath>
+    <clipPath
+       id="SVGID_28_">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         y="0"
+         x="0"
+         xlink:href="#SVGID_27_"
+         style="overflow:visible"
+         id="use251" />
+    </clipPath>
+    <clipPath
+       id="SVGID_26_">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         y="0"
+         x="0"
+         xlink:href="#SVGID_25_"
+         style="overflow:visible"
+         id="use239" />
+    </clipPath>
+    <clipPath
+       id="SVGID_24_">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         y="0"
+         x="0"
+         xlink:href="#SVGID_23_"
+         style="overflow:visible"
+         id="use227" />
+    </clipPath>
+    <clipPath
+       id="SVGID_22_">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         y="0"
+         x="0"
+         xlink:href="#SVGID_21_"
+         style="overflow:visible"
+         id="use213" />
+    </clipPath>
+    <clipPath
+       id="clipPath3478">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         y="0"
+         x="0"
+         xlink:href="#SVGID_21_"
+         style="overflow:visible"
+         id="use3480" />
+    </clipPath>
+    <clipPath
+       id="SVGID_20_">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         y="0"
+         x="0"
+         xlink:href="#SVGID_19_"
+         style="overflow:visible"
+         id="use199" />
+    </clipPath>
+    <clipPath
+       id="SVGID_18_">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         y="0"
+         x="0"
+         xlink:href="#SVGID_17_"
+         style="overflow:visible"
+         id="use187" />
+    </clipPath>
+    <clipPath
+       id="SVGID_16_">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         y="0"
+         x="0"
+         xlink:href="#SVGID_15_"
+         style="overflow:visible"
+         id="use173" />
+    </clipPath>
+    <clipPath
+       id="SVGID_14_">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         y="0"
+         x="0"
+         xlink:href="#SVGID_13_"
+         style="overflow:visible"
+         id="use159" />
+    </clipPath>
+    <clipPath
+       id="SVGID_12_">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         y="0"
+         x="0"
+         xlink:href="#SVGID_11_"
+         style="overflow:visible"
+         id="use139" />
+    </clipPath>
+    <clipPath
+       id="SVGID_10_">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         y="0"
+         x="0"
+         xlink:href="#SVGID_9_"
+         style="overflow:visible"
+         id="use123" />
+    </clipPath>
+    <clipPath
+       id="SVGID_8_">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         y="0"
+         x="0"
+         xlink:href="#SVGID_7_"
+         style="overflow:visible"
+         id="use105" />
+    </clipPath>
+    <clipPath
+       id="SVGID_6_">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         y="0"
+         x="0"
+         xlink:href="#SVGID_5_"
+         style="overflow:visible"
+         id="use91" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="32.247641"
+     inkscape:cy="17.538504"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="958"
+     inkscape:window-height="1023"
+     inkscape:window-x="960"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3643">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-112.82715,-274.86218)">
+    <g
+       transform="matrix(0.64269004,0,0,0.64269004,-246.85206,252.36803)"
+       id="sq3">
+      <defs
+         id="defs87">
+        <polygon
+           id="SVGID_5_"
+           points="631,65 631,35 661,35 661,65 656.402,65 " />
+      </defs>
+      <clipPath
+         id="clipPath3501">
+        <use
+           height="1052.3622"
+           width="744.09448"
+           y="0"
+           x="0"
+           xlink:href="#SVGID_5_"
+           style="overflow:visible"
+           id="use3503" />
+      </clipPath>
+      <g
+         id="g4735"
+         clip-path="url(#SVGID_6_)">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#c03a2b;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+           d="m 660.356,62.164 c -3.773,0.312 -5.518,3.356 -9.087,2.141 -2.741,-0.923 -1.863,-7.356 0,-9.581 4.369,-5.017 7.592,-13.27 8.857,-15.74 m -12.095,27.491 c 6.615,0.094 8.368,-2.371 11.997,-1.852"
+           id="path95" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#c03a2b;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+           d="m 655.518,33.4 c -0.86,3.952 -13.277,16.684 -12.938,17.956 0.381,1.396 3.928,-0.376 3.081,2.396 -0.195,0.649 -8.257,0.919 -15.015,1.936"
+           id="path97" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0.64269004,0,0,0.64269004,-246.85206,252.36803)"
+       id="sq2">
+      <defs
+         id="defs101">
+        <rect
+           id="SVGID_7_"
+           x="601"
+           y="35"
+           width="30"
+           height="30" />
+      </defs>
+      <clipPath
+         id="clipPath3511">
+        <use
+           height="1052.3622"
+           width="744.09448"
+           y="0"
+           x="0"
+           xlink:href="#SVGID_7_"
+           style="overflow:visible"
+           id="use3513" />
+      </clipPath>
+      <g
+         id="g107"
+         clip-path="url(#SVGID_8_)">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#c5ccb8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+           d="m 603.761,153.005 c 2.401,-5.688 9.794,-23.553 11.695,-25.135 m 6.17,-64.319"
+           id="path109" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#c5ccb8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+           d="M 638.039,113.902"
+           id="path111" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#c5ccb8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+           d="M 602.533,56.072"
+           id="path113" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#e64c3c;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+           d="m 631,55.636 c -4.068,0.593 -7.727,1.447 -9.01,2.803 -6.604,0 -11.562,-4.525 -19.285,-6.119 -0.641,-0.136 -1.16,-0.173 -1.618,-0.16"
+           id="path115" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0.64269004,0,0,0.64269004,-246.85206,252.36803)"
+       id="sq1">
+      <defs
+         id="defs119">
+        <rect
+           id="SVGID_9_"
+           x="571"
+           y="35"
+           width="30"
+           height="30" />
+      </defs>
+      <clipPath
+         id="clipPath3523">
+        <use
+           height="1052.3622"
+           width="744.09448"
+           y="0"
+           x="0"
+           xlink:href="#SVGID_9_"
+           style="overflow:visible"
+           id="use3525" />
+      </clipPath>
+      <g
+         id="g125"
+         clip-path="url(#SVGID_10_)">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#d25627;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10"
+           d="m 589.264,65 c -0.951,-0.976 -1.771,-2.154 -1.322,-4.127 1.621,-7.055 10.289,-0.751 10.571,2.179 0.042,0.255 -0.885,1.249 -1.477,1.952 -0.36,0.428 -0.597,0.749 -0.413,0.726"
+           id="path127" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#c5ccb8;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10"
+           d="M 602.533,56.072"
+           id="path129" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#d25627;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+           d="m 601.087,52.16 c -1.374,0.04 -2.201,0.534 -4.113,0.16 -9.133,-5.98 -14.192,-1.886 -21.981,-11.479 -0.753,-0.885 -1.651,-1.33 -2.634,-1.463"
+           id="path131" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0.64269004,0,0,0.64269004,-246.85206,252.36803)"
+       id="sq4">
+      <defs
+         id="defs135">
+        <rect
+           id="SVGID_11_"
+           x="541"
+           y="65"
+           width="30"
+           height="30" />
+      </defs>
+      <clipPath
+         id="clipPath3534">
+        <use
+           height="1052.3622"
+           width="744.09448"
+           y="0"
+           x="0"
+           xlink:href="#SVGID_11_"
+           style="overflow:visible"
+           id="use3536" />
+      </clipPath>
+      <g
+         id="g141"
+         clip-path="url(#SVGID_12_)">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#14a085;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+           d="m 603.761,153.005 c 2.401,-5.688 9.794,-23.553 11.695,-25.135 m 6.17,-64.319 m 40.732,-2.388 c -3.773,0.312 -7.52,4.357 -11.089,3.142 -2.741,-0.923 -1.863,-7.356 0,-9.581 4.369,-5.017 10.186,-18.853 11.451,-21.323 m -0.361,62.548 c -2.591,0.167 -4.373,0.83 -4.649,2.401 -1.978,11.516 -7.573,5.036 -12.995,8.073 -3.833,2.941 -9.687,11.985 -13.997,4.904 -5.275,-8.592 -13.969,-4.168 -20.3,-8.603 -2.186,-0.809 -11.557,1.159 -13.414,2.303 -1.493,0.443 -3.741,0.971 -4.998,0.387 -5.983,-7.14 -14.129,-5.999 -20.975,-11.147 1.201,-4.536 -8.106,-9.8 -8.398,-10.299 -1.836,-3.112 -5.781,-13.052 2.938,-12.1 7.765,0.96 9.433,4.781 17.144,3.281 2.952,-0.659 13.08,0.972 11.424,1.688 1.305,0.538 7.871,-1.565 7.83,-1.933 -0.261,-1.717 -12.627,3.743 -10.658,-6.386 0.638,-2.829 -4.342,-3.376 -3.369,-7.647 1.621,-7.055 10.102,-0.199 10.571,2.179 -0.044,-0.35 -2.023,2.753 -1.89,2.678 1.133,-0.176 2.81,2.253 3.075,2.791 1.306,1.227 3.18,-0.32 3.17,-0.943 2.267,0.104 4.294,0.587 4.744,1.793 7.062,-1.085 11.146,-2.443 16.555,-3.159 l -1.559,0.329 c 7.26,-1.847 17.627,-0.18 25.423,-0.065 6.615,0.094 10.483,-3.493 14.326,-2.516"
+           id="path143" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#14a085;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+           d="M 638.039,113.902"
+           id="path145" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#14a085;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+           d="m 656.276,103.038 c -2.124,4.272 -10.917,20.276 -15.232,21.785 -10.511,3.876 -10.914,-0.34 -20.21,1.839 -0.021,-0.029 -5.19,0.406 -5.378,1.208 -10.367,10.041 -27.982,12.57 -33.028,8.326 0.238,-0.141 0.495,-0.228 0.761,-0.264 -1.031,-1.197 -8.861,1.49 -8.533,-2.687 0.677,-0.699 4.868,-1.237 4.868,-1.237 0,0 4.056,-9.845 1.841,-13.448 -1.273,-2.018 10.943,-0.943 12.05,-1.423 4.638,-2 7.541,-15.723 13.633,-14.496"
+           id="path147" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#14a085;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+           d="M 602.533,56.072"
+           id="path149" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#14a085;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+           d="m 655.518,33.4 c -0.86,3.952 -13.277,16.684 -12.938,17.956 0.381,1.396 3.928,-0.376 3.081,2.396 -0.309,1.027 -20.281,1.104 -23.671,4.687 -6.604,0 -11.562,-4.525 -19.285,-6.119 -2.563,-0.547 -3.183,0.499 -5.731,0 -9.133,-5.98 -14.192,-1.886 -21.981,-11.479 -0.753,-0.885 -1.651,-1.33 -2.634,-1.463"
+           id="path151" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0.64269004,0,0,0.64269004,-246.85206,252.36803)"
+       id="sq5">
+      <defs
+         id="defs155">
+        <polygon
+           id="SVGID_13_"
+           points="571,73.196 571,65 589.265,65 597.039,65 601,65 601,68.971 601,74.54 601,75.418 601,95 571,95 " />
+      </defs>
+      <clipPath
+         id="clipPath3547">
+        <use
+           height="1052.3622"
+           width="744.09448"
+           y="0"
+           x="0"
+           xlink:href="#SVGID_13_"
+           style="overflow:visible"
+           id="use3549" />
+      </clipPath>
+      <g
+         id="g161"
+         clip-path="url(#SVGID_14_)">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#e57e25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10"
+           d="m 603.761,153.005 c 2.401,-5.688 9.794,-23.553 11.695,-25.135 m 6.17,-64.319 m -24.588,1.448 c -0.272,0.432 -0.46,0.756 -0.415,0.73 1.133,-0.176 2.81,2.253 3.075,2.791 0.403,0.379 0.861,0.493 1.302,0.451 m 0,5.569 c -2.925,0.01 -11.339,2.467 -9.689,-6.02 0.344,-1.522 -0.939,-2.384 -2.047,-3.521 m -18.272,8.193 c 3.779,1.378 6.203,3.031 11.723,1.958 2.952,-0.659 13.08,0.972 11.424,1.688 0.988,0.407 4.992,-0.7 6.861,-1.421"
+           id="path163" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#14a085;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+           d="m 592.006,105.415 c -5.983,-7.14 -14.129,-5.999 -20.975,-11.147 1.201,-4.536 -8.106,-9.8 -8.398,-10.299 -1.836,-3.112 -5.781,-13.052 2.938,-12.1"
+           id="path165" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0.64269004,0,0,0.64269004,-246.85206,252.36803)"
+       id="sq9">
+      <defs
+         id="defs169">
+        <polyline
+           id="SVGID_15_"
+           points="571,125 571,95 601,95 601,106.57 601,125   " />
+      </defs>
+      <clipPath
+         id="clipPath3557">
+        <use
+           height="1052.3622"
+           width="744.09448"
+           y="0"
+           x="0"
+           xlink:href="#SVGID_15_"
+           style="overflow:visible"
+           id="use3559" />
+      </clipPath>
+      <g
+         id="g175"
+         clip-path="url(#SVGID_16_)">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#3b97d3;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10"
+           d="m 601,103.7 c -1.823,0.442 -3.355,0.935 -3.996,1.328 -1.493,0.443 -3.741,0.971 -4.998,0.387 -5.683,-6.78 -13.314,-6.093 -19.932,-10.417"
+           id="path177" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#3b97d3;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10"
+           d="m 581.644,125.001 c 0.483,-2.458 0.625,-4.97 -0.279,-6.44 -1.273,-2.018 10.943,-0.943 12.05,-1.423 2.8,-1.207 4.967,-6.686 7.585,-10.569"
+           id="path179" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0.64269004,0,0,0.64269004,-246.85206,252.36803)"
+       id="sq13">
+      <defs
+         id="defs183">
+        <polygon
+           id="SVGID_17_"
+           points="581.646,125 601,125 601,155 571,155 571,125 581.469,125 " />
+      </defs>
+      <clipPath
+         id="clipPath3567">
+        <use
+           height="1052.3622"
+           width="744.09448"
+           y="0"
+           x="0"
+           xlink:href="#SVGID_17_"
+           style="overflow:visible"
+           id="use3569" />
+      </clipPath>
+      <g
+         id="g189"
+         clip-path="url(#SVGID_18_)">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#2980ba;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+           d="m 601,136.298 c -7.866,2.555 -15.52,2.466 -18.572,-0.102 0.238,-0.141 0.495,-0.228 0.761,-0.264 -1.031,-1.197 -8.861,1.49 -8.533,-2.687 0.677,-0.699 4.868,-1.237 4.868,-1.237 0,0 1.539,-3.735 2.203,-7.446"
+           id="path191" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0.64269004,0,0,0.64269004,-246.85206,252.36803)"
+       id="sq14">
+      <defs
+         id="defs195">
+        <rect
+           id="SVGID_19_"
+           x="601"
+           y="125"
+           width="30"
+           height="30" />
+      </defs>
+      <clipPath
+         id="clipPath3576">
+        <use
+           height="1052.3622"
+           width="744.09448"
+           y="0"
+           x="0"
+           xlink:href="#SVGID_19_"
+           style="overflow:visible"
+           id="use3578" />
+      </clipPath>
+      <g
+         id="g201"
+         clip-path="url(#SVGID_20_)">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#9778b5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+           d="m 605.303,151.197 c 2.401,-5.688 8.252,-21.745 10.153,-23.327"
+           id="path203" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#9778b5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+           d="m 630.999,126.435 c -2.78,-0.278 -5.208,-0.935 -10.165,0.228 -0.021,-0.029 -5.19,0.406 -5.378,1.208 -4.095,3.966 -9.321,6.76 -14.456,8.428"
+           id="path205" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0.64269004,0,0,0.64269004,-246.85206,252.36803)"
+       id="sq15">
+      <defs
+         id="defs209">
+        <rect
+           id="SVGID_21_"
+           x="631"
+           y="125"
+           width="30"
+           height="30" />
+      </defs>
+      <clipPath
+         id="clipPath3586">
+        <use
+           height="1052.3622"
+           width="744.09448"
+           y="0"
+           x="0"
+           xlink:href="#SVGID_21_"
+           style="overflow:visible"
+           id="use3588" />
+      </clipPath>
+      <g
+         id="g215"
+         clip-path="url(#SVGID_22_)">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#894b9d;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10"
+           d="m 640.883,124.729 c -4.707,1.851 -7.37,1.877 -9.882,1.638"
+           id="path217" />
+      </g>
+      <line
+         style="fill:none;stroke:#eff5dc;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+         x1="662"
+         y1="124.5"
+         x2="631"
+         y2="124.5"
+         id="line219"
+         clip-path="url(#SVGID_22_)" />
+    </g>
+    <g
+       transform="matrix(0.64269004,0,0,0.64269004,-246.85206,252.36803)"
+       id="sq7">
+      <defs
+         id="defs223">
+        <polyline
+           id="SVGID_23_"
+           points="662,95 631,95 631,65 662,65   " />
+      </defs>
+      <clipPath
+         id="clipPath3596">
+        <use
+           height="1052.3622"
+           width="744.09448"
+           y="0"
+           x="0"
+           xlink:href="#SVGID_23_"
+           style="overflow:visible"
+           id="use3598" />
+      </clipPath>
+      <g
+         id="g229"
+         clip-path="url(#SVGID_24_)">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#c03a2b;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+           d="m 631,65.679 c 5.853,-0.063 12.276,0.719 17.531,0.796 3.094,0.044 5.586,-0.717 7.756,-1.439 2.471,-0.823 4.524,-1.597 6.57,-1.076 m -38.19,2.251"
+           id="path231" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0.64269004,0,0,0.64269004,-246.85206,252.36803)"
+       id="sq6">
+      <defs
+         id="defs235">
+        <rect
+           id="SVGID_25_"
+           x="601"
+           y="65"
+           width="30"
+           height="30" />
+      </defs>
+      <clipPath
+         id="clipPath3605">
+        <use
+           height="1052.3622"
+           width="744.09448"
+           y="0"
+           x="0"
+           xlink:href="#SVGID_25_"
+           style="overflow:visible"
+           id="use3607" />
+      </clipPath>
+      <g
+         id="g241"
+         clip-path="url(#SVGID_26_)">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#e57e25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+           d="m 621.626,63.551 m -20.727,5.492 c 0.638,-0.215 1.251,-1.057 1.969,-1.466 2.375,-0.16 4.294,0.587 4.744,1.793 7.062,-1.085 11.146,-2.443 16.555,-3.159 l 0,0 c 2.197,-0.362 4.517,-0.494 6.896,-0.499 m -30.117,9.726 c 0.63,-0.24 1.032,-0.44 1.022,-0.532 -0.043,-0.278 -0.403,-0.368 -0.969,-0.366"
+           id="path243" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0.64269004,0,0,0.64269004,-246.85206,252.36803)"
+       id="sq10">
+      <defs
+         id="defs247">
+        <polygon
+           id="SVGID_27_"
+           points="601,106.606 601,95 631,95 631,125 601,125 " />
+      </defs>
+      <clipPath
+         id="clipPath3614">
+        <use
+           height="1052.3622"
+           width="744.09448"
+           y="0"
+           x="0"
+           xlink:href="#SVGID_27_"
+           style="overflow:visible"
+           id="use3616" />
+      </clipPath>
+      <g
+         id="g253"
+         clip-path="url(#SVGID_28_)">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#3b97d3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+           d="m 621.626,63.551 m 9.373,48.313 c -0.093,-0.172 -0.187,-0.351 -0.281,-0.536 -4.573,-8.985 -13.969,-4.168 -20.3,-8.603 -1.436,-0.531 -5.975,0.136 -9.445,0.98"
+           id="path255" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#c5ccb8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+           d="M 638.039,113.902"
+           id="path257" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#3b97d3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+           d="m 599.861,108.264 c 2.043,-3.158 4.312,-5.849 7.186,-5.622"
+           id="path259" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#c5ccb8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+           d="M 602.533,56.072"
+           id="path261" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#c5ccb8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+           d="m 621.99,58.438 c -6.604,0 -11.562,-4.525 -19.285,-6.119 -2.563,-0.547 -3.183,0.499 -5.731,0 -9.133,-5.98 -14.192,-1.886 -21.981,-11.479 -0.753,-0.885 -1.651,-1.33 -2.634,-1.463"
+           id="path263" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0.64269004,0,0,0.64269004,-246.85206,252.36803)"
+       id="sq11">
+      <defs
+         id="defs267">
+        <rect
+           id="SVGID_29_"
+           x="631"
+           y="95"
+           width="31"
+           height="30" />
+      </defs>
+      <clipPath
+         id="clipPath3627">
+        <use
+           height="1052.3622"
+           width="744.09448"
+           y="0"
+           x="0"
+           xlink:href="#SVGID_29_"
+           style="overflow:visible"
+           id="use3629" />
+      </clipPath>
+      <g
+         id="g273"
+         clip-path="url(#SVGID_30_)">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#894b9d;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+           d="m 578.324,132.009 c 0,0 4.19,-9.845 1.902,-13.448 -1.316,-2.018 11.308,-0.943 12.451,-1.423 4.792,-2 7.793,-15.723 14.087,-14.496"
+           id="path275" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#894b9d;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+           d="m 657.636,103.038 c -2.195,4.272 -13.272,20.678 -17.731,22.187 -10.861,3.876 -9.287,-0.741 -18.893,1.438 -0.021,-0.029 -5.363,0.406 -5.557,1.208 -10.713,10.041 -28.916,12.57 -34.13,8.326 0.246,-0.141 0.512,-0.228 0.786,-0.264"
+           id="path277" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#3b97d3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+           d="m 603.369,153.005 c 2.481,-5.688 10.121,-23.553 12.086,-25.135 m 6.375,-64.319 m 42.09,-2.388 c -3.898,0.312 -7.77,4.357 -11.458,3.142 -2.833,-0.923 -1.926,-7.356 0,-9.581 4.515,-5.017 10.525,-18.853 11.833,-21.323 m -67.907,71.627 c -1.543,0.443 -3.866,0.971 -5.165,0.387 -6.183,-7.14 -14.6,-5.999 -21.674,-11.147 1.241,-4.536 -8.377,-9.8 -8.679,-10.299 -1.896,-3.112 -5.974,-13.052 3.037,-12.1 8.023,0.96 9.747,4.781 17.715,3.281 3.051,-0.659 13.516,0.972 11.805,1.688 1.348,0.538 8.134,-1.565 8.091,-1.933 -0.27,-1.717 -13.048,3.743 -11.014,-6.386 0.659,-2.829 -4.486,-3.376 -3.481,-7.647 1.676,-7.055 10.438,-0.199 10.924,2.179 -0.045,-0.35 -2.091,2.753 -1.952,2.678 1.17,-0.176 2.903,2.253 3.178,2.791 1.349,1.227 3.285,-0.32 3.275,-0.943 2.342,0.104 4.437,0.587 4.902,1.793 7.297,-1.085 11.517,-2.443 17.106,-3.159 l -1.61,0.329 c 7.501,-1.847 18.214,-0.18 26.27,-0.065 6.836,0.094 10.833,-3.493 14.804,-2.516 m -2.799,32.467 c -1.117,0.379 -1.835,0.992 -2.004,1.925 -2.044,11.516 -7.826,5.036 -13.429,8.073 -3.961,2.941 -10.009,12.986 -14.464,5.905 -0.073,-0.115 -0.147,-0.229 -0.222,-0.34"
+           id="path279" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#c5ccb8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+           d="M 638.79,113.902"
+           id="path281" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#c5ccb8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+           d="M 602.101,56.072"
+           id="path283" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#c5ccb8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+           d="m 656.852,33.4 c -0.889,3.952 -13.72,16.684 -13.369,17.956 0.394,1.396 4.059,-0.376 3.184,2.396 -0.318,1.027 -20.957,1.104 -24.459,4.687 -6.824,0 -11.948,-4.525 -19.929,-6.119 -2.648,-0.547 -3.288,0.499 -5.922,0 -9.438,-5.98 -14.666,-1.886 -22.715,-11.479 -0.777,-0.885 -1.706,-1.33 -2.722,-1.463"
+           id="path285" />
+      </g>
+    </g>
+  </g>
+</svg>

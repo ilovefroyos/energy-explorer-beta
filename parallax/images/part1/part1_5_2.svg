@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="60px" height="33px" viewBox="0 0 60 33" enable-background="new 0 0 60 33" xml:space="preserve">
+<g>
+	<path fill="#2980BA" d="M58.488,25.403v-5.252l-3.438-1.649l-3.954-4.441c0,0-5.276-5.513-7.476-5.513s-5.496,0-5.496,0v19.909
+		h8.898h11.465V25.403z"/>
+	<rect x="40.1" y="17.027" fill="#343335" width="0.74" height="2.417"/>
+	<polygon fill="#A4A8AF" points="38,25.34 38,27.765 25.229,27.765 0.689,27.765 0.689,25.34 	"/>
+	<rect x="0.689" y="22.726" fill="#302F32" width="37.311" height="2.956"/>
+	<rect x="0.689" y="0.526" fill="#FFFFFF" width="37.436" height="22.896"/>
+	<path fill="#D1E2E8" d="M49.789,18.235v-3.017c0,0-3.566-5.16-5.25-5.28s-4.811,0-4.811,0v5.772H45.5l1.564,2.524H49.789z"/>
+	<polygon fill="#8D9299" points="53.332,28.457 59.232,28.457 59.232,25.105 57.992,25.105 53.332,25.105 	"/>
+	<g>
+		<circle fill="#2A2A2A" cx="52.042" cy="28.445" r="4.327"/>
+		<circle fill="#6A7E86" cx="52.042" cy="28.445" r="3.009"/>
+		<circle fill="#5C5D60" cx="52.042" cy="28.445" r="2.708"/>
+		<circle fill="#B2BCC2" cx="52.043" cy="28.445" r="0.541"/>
+		<circle fill="#B2BCC2" cx="52.043" cy="28.445" r="1.902"/>
+		<circle fill="#DADADA" cx="52.043" cy="28.354" r="0.693"/>
+	</g>
+	<rect x="56.542" y="22.834" fill="#F2CB6E" width="1.476" height="1.177"/>
+	<rect x="58.31" y="20.151" fill="#A4A8AF" width="0.397" height="4.954"/>
+	<polygon fill="#C1C4C7" points="48.307,13.772 46.316,17.027 47.064,18.235 49.789,18.235 49.789,15.219 	"/>
+	<line fill="none" stroke="#C1C4C7" stroke-width="0.3704" stroke-miterlimit="10" x1="45.5" y1="15.711" x2="45.5" y2="10.307"/>
+	<g>
+		<circle fill="#2A2A2A" cx="16.636" cy="28.445" r="4.327"/>
+		<circle fill="#6A7E86" cx="16.636" cy="28.445" r="3.009"/>
+		<circle fill="#5C5D60" cx="16.636" cy="28.445" r="2.708"/>
+		<circle fill="#B2BCC2" cx="16.636" cy="28.445" r="0.542"/>
+		<circle fill="#B2BCC2" cx="16.636" cy="28.445" r="1.903"/>
+		<circle fill="#DADADA" cx="16.636" cy="28.354" r="0.694"/>
+	</g>
+	<rect x="0.098" y="25.682" fill="#A4A8AF" width="0.592" height="3.241"/>
+</g>
+</svg>

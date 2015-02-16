@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="665px" height="210px" viewBox="0 0 665 210" enable-background="new 0 0 665 210" xml:space="preserve">
+<symbol  id="rorpie" viewBox="-329.84 -102.662 662.663 205.258">
+	<polygon fill="#C5CCB8" points="321.519,-51.578 -100.481,-51.578 -100.481,102.596 321.519,102.596 	"/>
+	<text transform="matrix(1 0 0 -1 22.4302 -99.4121)" fill="#565756" font-family="'PTSans-Regular'" font-size="13">Gigawatt Hours per Year</text>
+	<text transform="matrix(1 0 0 -1 -94.4829 -71.7188)" fill="#565756" font-family="'PTSans-Regular'" font-size="13">0</text>
+	<text transform="matrix(1 0 0 -1 207.7002 -68.7188)" fill="#565756" font-family="'PTSans-Regular'" font-size="13">150</text>
+	<text transform="matrix(1 0 0 -1 310.8662 -68.7188)" fill="#565756" font-family="'PTSans-Regular'" font-size="13">200</text>
+	<text transform="matrix(1 0 0 -1 104.5322 -68.7188)" fill="#565756" font-family="'PTSans-Regular'" font-size="13">100</text>
+	<text transform="matrix(1 0 0 -1 5.0254 -68.7188)" fill="#565756" font-family="'PTSans-Regular'" font-size="13">50</text>
+	<g>
+		<g>
+			<polygon fill="#D25627" points="-91.147,95.846 -69.025,95.846 -69.025,85.846 -91.147,85.846 			"/>
+		</g>
+		<text transform="matrix(1 0 0 -1 -204.6519 86.9141)" fill="#D25627" font-family="'PTSans-Regular'" font-size="13">Lions Bay</text>
+	</g>
+	<g>
+		<g>
+			<polygon fill="#14A085" points="-91.389,69.507 -70.443,69.507 -70.443,59.507 -91.389,59.507 			"/>
+		</g>
+		<text transform="matrix(1 0 0 -1 -222.8066 60.5742)" fill="#14A085" font-family="'PTSans-Regular'" font-size="13">Maple Ridge</text>
+	</g>
+	<g>
+		<g>
+			<polygon fill="#3B97D3" points="-91.389,43.169 -55.108,43.169 -55.108,33.169 -91.389,33.169 			"/>
+		</g>
+		<text transform="matrix(1 0 0 -1 -330.3408 34.2363)" fill="#2980BA" font-family="'PTSans-Regular'" font-size="13">North Vancouver (District)</text>
+	</g>
+	<g>
+		<g>
+			<polygon fill="#894B9D" points="-91.389,16.831 -87.302,16.831 -87.302,6.831 -91.389,6.831 			"/>
+		</g>
+		<text transform="matrix(1 0 0 -1 -234.6816 7.8984)" fill="#894B9D" font-family="'PTSans-Regular'" font-size="13">Pitt Meadows</text>
+	</g>
+	<g>
+		<g>
+			<polygon fill="#E57E25" points="-91.389,-9.507 115.186,-9.507 115.186,-19.507 -91.389,-19.507 			"/>
+		</g>
+		<text transform="matrix(1 0 0 -1 -252.2637 -18.4395)" fill="#E57E25" font-family="'PTSans-Regular'" font-size="13">West Vancouver</text>
+	</g>
+	<g>
+		<g>
+			<polygon fill="#26B99A" points="-91.389,-35.845 292.393,-35.845 292.393,-45.845 -91.389,-45.845 			"/>
+		</g>
+		<text transform="matrix(1 0 0 -1 -256.6846 -44.7773)" fill="#26B99A" font-family="'PTSans-Regular'" font-size="13">Electoral Area A</text>
+	</g>
+</symbol>
+<use xlink:href="#rorpie"  width="662.663" height="205.258" x="-329.84" y="-102.662" transform="matrix(1 0 0 -1 331.8623 102.5962)" overflow="visible"/>
+</svg>
