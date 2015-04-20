@@ -1,0 +1,458 @@
+@keyframes spin {
+	from {
+	  transform: rotate(0deg);
+	}
+
+	to {
+	  transform: rotate(360deg);
+	}
+}
+
+@keyframes wave-animation {
+	0% {
+	  background-position: 0 -70%;
+	}
+
+	100% {
+	  background-position: 150% 10%;
+	}
+}
+
+@keyframes loading-animation {
+	0% {
+	  background-size: 200px 0px;
+	}
+
+	100% {
+	  background-size: 1000px 200%;
+	}
+}
+
+@-webkit-keyframes wspin {
+	from {
+	  -webkit-transform: rotate(0deg);
+	}
+
+	to {
+	  -webkit-transform: rotate(360deg);
+	}
+}
+
+@-webkit-keyframes wwave-animation {
+	0% {
+	  background-position: 0 -70%;
+	}
+
+	100% {
+	  background-position: 150% 10%;
+	}
+}
+
+@-webkit-keyframes wloading-animation {
+	0% {
+	  background-size: 200px 300px;
+	}
+
+	100% {
+	  background-size: 200px 200%;
+	}
+}
+
+html{
+	height: 100%;
+	min-height: 100%;
+}
+
+body{
+	height: 100%;
+	min-height: 100%;
+	margin: 0;
+	padding: 0 0 0 0;
+	background: #159f84;
+}
+
+#cover {
+	padding: 0 0 0 0;
+	width: 100%;
+	height: 100%;
+}
+
+#content {
+	width: 70%;
+	margin: 0 auto;
+	padding: 150px 0 0 0;
+}
+
+#article {
+	width: 100%;
+	margin: 1% 0 0 0;
+	color: #221F1F;
+	font-family: Ptserif;
+	font-size: 14pt;
+    padding-left: 5px;
+    max-width: 920px;
+	overflow: hidden;
+}
+
+#sidebar {
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 20%;
+	min-width: 175px;
+}
+
+
+#question, #visit {
+	width: 50%;
+	min-width: 210px;
+	margin: 5% auto;
+	zoom: 1;
+	overflow: hidden;
+}
+
+.wave {
+  background-image: url(../img/wave.png);
+  animation: wave-animation 8s linear/*, loading-animation 10s infinite linear alternation*/;
+  -webkit-animation: wwave-animation 8s linear/*, loading-animation 4s infinite linear alternation*/;
+  background-size: 200px 3000px;
+  background-position: 100% 10%;
+  background-repeat: repeat-x;
+  opacity: 1;
+}
+
+.loading {
+}
+
+.icon{
+	width: 20%;
+	min-width: 64px;
+	display: block;
+	float: left;
+	margin: 0 0 0 0;
+}
+
+.icon img {
+	width: 69%;
+	min-width: 32px;
+	margin: 0 25% 0 0;
+}
+
+.green{
+	display: block;
+	float: left;
+	margin: 5% 0 0 0;
+	font-family: OpenSans;
+	font-size: 110%;
+	color: rgba(21,159,132,1);
+	text-decoration: none;
+}
+
+.link{
+	color: rgba(64,178,159,1);
+	text-decoration: none;
+}
+
+.none {
+	display: none !important; 
+}
+.nope {
+	opacity: 0;
+}
+
+#article h3{
+	border-bottom: 5px solid #BDBEC0;
+    font-family: pt sans narrow;
+    font-size: 22pt;
+    font-weight: bold;
+    max-width: 600px;
+    min-width: 100px;
+    padding-bottom: 0;	
+    margin: -0.5% 0;
+    letter-spacing: 1.2pt;	
+}
+
+#title {
+	font-family: Oswald;
+	font-size: 42pt;
+	text-align: left;
+	text-transform: uppercase;
+	margin-top:0; 
+}
+
+#more {
+	clear: both;
+	width: 100%;
+	zoom: 1;
+	overflow: hidden;
+}
+
+#more>p{
+	font-family: OpenSans;
+	color: rgba(190,192,194,1);
+	font-size: 11pt;
+}
+
+#button{
+	width: 250px;
+	float: left;
+}
+
+#learn{
+	padding-right: 179px;
+	height: 100px;
+	float: right;
+	font-family: OpenSans;
+	font-size: 11pt;
+	color: rgba(21,159,132,1);
+}
+#learn p{
+	cursor: pointer;
+}
+input {
+  position: absolute;
+  left: -9999px;
+}
+
+.slider-v2 {
+  position: relative;
+  font-size: 12pt;
+  display: block;
+  width: 149px;
+  content: person;
+  text-align: right;
+  padding: 7px 25px;
+  cursor: pointer;
+  border-radius: 3px;
+  transition: left 350ms;
+  -webkit-transition: left 350ms;
+  background: linear-gradient(rgba(0, 0, 0, 0.07), rgba(255, 255, 255, 0.1)), #d0d0d0;
+  box-shadow: 0 0.08em 0.15em -0.1em rgba(0, 0, 0, 0.5) inset, 0 0.05em 0.08em -0.01em rgba(255, 255, 255, 0.7), 0 0 0 0 rgba(68, 204, 102, 0.7) inset;
+}
+
+.slider-v2:hover{
+	background: rgba(22,160,133,1);
+	box-shadow: 0 0.58em 0.95em -0.1em rgba(255,255,255,0.1) inset, 0 0.05em 0.08em -0.01em rgba(22,160,133,0.1);
+}
+
+.slider-v2::after {
+  position: absolute;
+  font-size: 12pt;
+  content: 'region';
+  padding: 7px 25px;
+  top: 0;
+  left: 0;
+  border-radius: 2px;
+  transition: left 250ms;
+  -webkit-transition: left 250ms;
+  background: linear-gradient(#f5f5f5 10%, #eeeeee);
+  box-shadow: 0 0.58em 0.95em -0.1em rgba(255, 255, 255, 0.1) inset, 0 0.2em 0.2em -0.12em rgba(0, 0, 0, 0.5);
+}
+
+input:checked + .slider-v2::before {
+  box-shadow: 0 0.07em 0.1em -0.1em rgba(0, 0, 0, 0.4) inset, 0 0.05em 0.08em -0.01em rgba(255, 255, 255, 0.7);
+}
+
+input:checked + .slider-v2::after {
+  left: 100px;
+  content: 'person';
+  font-size: 12pt;
+}
+
+.amount {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 75px;
+  opacity: 0;
+  color: white;
+  padding-top: 25px;
+  background: rgba(56, 56, 56, 0.75);
+  transition: opacity 0.25s;
+  -webkit-transition: opacity 0.25s;
+  border-radius: 50px;
+  text-shadow: 0px 0px 5px #fff;
+}
+
+.dial, .pointer, .amount {
+  width: 100px;
+}
+
+.amount:hover {
+  opacity: 1;
+  cursor: pointer;
+}
+
+.dial {
+  position: relative;
+  margin-left: 25px;
+  background: url(../img/clock.png) no-repeat;
+}
+
+.pointer {
+  height: 100px;
+  background: url(../img/arrow.png);
+  animation-duration: 0.67s;
+  animation-name: spin;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  -webkit-animation-duration: 0.67s;
+  -webkit-animation-name: wspin;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+}
+
+.country {
+  width: 155px;
+  float: left;
+  margin: 20px 0 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  font-family: OpenSans;
+  font-weight: 100;
+  font-size: 12pt;
+}
+
+.country last {
+  width: 155px;
+  float: left;
+  margin: 20px 0 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  font-family: OpenSans;
+  font-weight: 100;
+  font-size: 12pt;
+}
+
+
+.metro-vancouver p:before {
+  content: "Metro Vancouver";
+}
+
+.metro-vancouver .pointer {
+  animation-duration: 153.4076s;
+  -webkit-animation-duration: 153.4076s;
+}
+
+.metro-vancouver .amount:before {
+  content: "2.0 million";
+}
+
+.canada p:before {
+  content: "Canada";
+}
+
+.canada .pointer {
+  animation-duration: 5.73904s;
+  -webkit-animation-duration: 5.73904s;
+}
+
+.canada .amount:before {
+  content: "550 million";
+}
+
+
+.united-states p:before {
+  content: "United States";
+}
+
+.united-states .pointer {
+  animation-duration: 0.81145s;
+  -webkit-animation-duration: 0.81145s;
+}
+
+.united-states .amount:before {
+  content: "3.9 billion";
+}
+
+
+.china p:before {
+  content: "China";
+}
+
+.china .pointer {
+  animation-duration: 0.67198s;
+  -webkit-animation-duration: 0.67198s;
+}
+
+.china .amount:before {
+  content: "4.7 billion";
+}
+
+.sweden p:before {
+  content: "Sweden";
+}
+
+.sweden .pointer {
+  animation-duration: 23.87282s;
+  -webkit-animation-duration: 23.87282s;
+}
+
+.sweden .amount:before {
+  content: "132 million";
+}
+
+
+@media only screen and (min-width:1201px){
+	
+	#light_left{
+		width: 32%;
+	}
+	
+	#light{
+		width: 20%;
+	}
+	
+	#light_right{
+		width: 26%;
+	}
+	
+}
+
+@media only screen and (max-width:1200px){
+	
+		
+	#content {
+		width: 80%;
+		font-size: 130%; 
+	}
+	
+	#article{
+		width: 100%;
+		margin: 5% 0 0 0;
+	}
+	
+	#blick {
+		font-size: 48pt;	
+		text-align: left;
+	}
+
+	#sidebar {
+		position: relative;
+		clear: both;
+		width: 40%;
+		margin: 0 auto;
+	}
+	#content {
+		margin: 0 0 7% 7%;
+	}
+}
+
+@font-face {
+	font-family: "OpenSans";
+	src: local('OpenSans'), local('OpenSans'), url("../fonts/opensans/OpenSans-Regular.ttf");
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Oswald";
+	src: local('Oswald'), local('Oswald'), url("../fonts/Oswald/Oswald-Regular.ttf");
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Ptserif";
+	src: local('Ptserif'), local('Ptserif'), url("../fonts/ptserif/PT_Serif-Web-Regular.ttf");
+	font-style: normal;
+}
+

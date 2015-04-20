@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Energy Explorer</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta name="viewport" content="width=600px, user-scalable=no">
+		<link rel="stylesheet" type="text/css" href="./css/animate.css-master/animate.css">
+		<link rel="stylesheet" type="text/css" href="./css/style.css">
+		<link rel="stylesheet" type="text/css" href="./scss/style.scss">
+	</head>
+
+	<body>
+		<div id="cover" class="wave loading-2-text">
+		<div id="content">
+			
+			<h1 id="title">Community Energy Explorer </h1>
+
+			<div id="article"> <!-- class="animated fadeInUp" -->
+
+				<h3> A VISUAL EXPLORATION OF LOCAL ENERGY ISSUES </h3>
+				
+				<div id="clock">
+					<div class="country metro-vancouver">
+						<p> </p>
+						<div class="dial">
+						  <div class="pointer"></div>
+						  <div class="amount"><br />MWh</div>
+						</div>
+					</div>
+					  <div class="country canada">
+						<p> </p>
+						<div class="dial">
+						  <div class="pointer"></div>
+						  <div class="amount"><br />MWh</div>
+						</div>
+					  </div>
+					  <div class="country united-states">
+						<p> </p>
+						<div class="dial">
+						  <div class="pointer"></div>
+						  <div class="amount"><br />MWh</div>
+						</div>
+					  </div>
+					  <div class="country china">
+						<p> </p>
+						<div class="dial">
+						  <div class="pointer"></div>
+						  <div class="amount"><br />MWh</div>
+						</div>
+					  </div>
+					  <div class="country sweden">
+						<p> </p>
+						<div class="dial">
+						  <div class="pointer"></div>
+						  <div class="amount"><br />MWh</div>
+						</div>
+				</div><!--End of clock div -->
+				
+				<div id="more">
+					
+					<p>
+						electricity use by
+					</p>
+					<div id="button">
+						 <input type="checkbox" id="s3" />
+						 <label class="slider-v2" for="s3">person</label>
+					</div><!--End of button div -->
+					
+					<div id="learn">
+						<p>
+							about the project
+						</p>
+					</div><!--End of more div -->
+					
+				</div><!--End of clock div -->
+				
+				<div id="text" class="none" >
+					<p>
+						The Community Energy Explorer aims to build public energy literacy. By interacting with highly visual and contextually relevant information, Metro Vancouver citizens will be encouraged to uncover how energy is an intricate part of their community. This project invites the public to learn, engage and participate in the development of energy conscious communities that will sustain our region's exceptional quality of living.
+					</p>
+					<p>
+						Energyexplorer.ca is <a class="link" href="http://www.energyexplorer.ca/blog">being developed</a> and produced by the Collaboration for Advanced Landscape Planning in partnership with Lloma Design, and has been supported by the Neptis Foundation, the Real Estate Foundation of BC and Metro Vancouver.
+					</p>
+				</div><!--End of article div -->
+				
+			</div> <!--End of article div -->
+
+
+		</div><!--End of article div -->
+		</div><!--End of content div -->
+
+		<div id="sidebar">
+
+			<div id="question">
+
+				<a class="icon" href="mailto:rory@energyexplorer.ca?subject=Enquiry on the Community Energy Explorer"><img src="./img/ask.png" alt="question"/></a>
+
+				<a class="green" href="mailto:rory@energyexplorer.ca?subject=Enquiry on the Community Energy Explorer">
+					Ask a question
+				</a>
+
+			</div><!--End of question div -->
+
+			<div id="visit">
+
+				<a class="icon" href="http://www.energyexplorer.ca/blog"><img src="./img/visit.png" alt="contact"/></a>
+
+				<a class="green" href="http://www.energyexplorer.ca/blog">
+					Visit the blog
+				</a>
+
+			</div><!--End of visit div -->
+
+		</div> <!--End of sidebar div -->
+		</div> <!--End of cover div -->
+		<script type="text/javascript" src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+		<script type="text/javascript">
+			$(function(){
+//				setTimeout("$('#cover').removeClass('wave').css('background', '#fff')", 4000)
+			})
+//				setTimeout("$('#cover').removeClass('wave')", 4000);
+			$('#s3').on('change', function(){
+				if( $( this ).prop('checked')){
+				$('.slider-v2').text('region').css('text-align', 'left');
+				} else {
+					$('.slider-v2').text('person').css('text-align', 'right');
+				}
+			})
+			
+			$('#learn').on('click', function(){
+				if( $( '#text' ).hasClass('none')){
+				$('#text').removeClass('none').addClass('animated').addClass('fadeInUp');
+				$('#cover').height($(document).height());
+				} else {
+					$('#text').removeClass('fadeInUp').addClass('fadeOutDown');
+					setTimeout("$('#text').removeClass('fadeOutDown').removeClass('animated').addClass('none');", 1000);
+					$('#cover').height($(document).height());
+				}
+			})
+			$(function(){
+				$('#cover').height($(document).height());
+			})
+			
+			$(window).resize(function() {
+				$('#cover').height($(window).height());
+				$('#cover').height($(document).height());
+			})
+//			//	/img/exp/exp_bot.png
+//$(function() {
+//			if(document.body.clientWidth<1200){
+//				
+//					$('.bi').hide()
+//					var i = 0;
+//					var timer = 0;
+//					var pos = new Array("_bot", "_cen", "_top");
+//					var name = new Array("com", "en", "exp");
+//					
+//					var intervalID = setInterval(function() {
+//						var j = 0;
+//
+//
+//						$('.topWord').each(function() {
+//							$(this).attr('src', './img/' + name[j] + '/' + name[j] + pos[i] + '.png');
+//							
+//							j++;
+//						});
+//						i++;
+//						if (i == 3) {
+//							i=0;
+//						}
+//
+//						timer += 40;
+//						if (timer > 1000) {
+//							$("#light_left img").attr('src', './img/exp.gif'); 							
+//							$("#light img").attr('src', './img/ener.gif'); 							
+//							$("#light_right img").attr('src', './img/com.gif'); 							
+//							clearInterval(intervalID);
+//	}
+//					}, 60)
+//			} else {
+//				$('.topWord').hide()
+//					var i = 0;
+//	//				var flag = true;
+//					var timer = 0;
+//					var pos = new Array("_bot", "_cen", "_top");
+//					var name = 'b';
+//					var intervalID = setInterval(function() {
+//						var j = 0;
+//
+//
+//						$('.bi').each(function() {
+//							$(this).attr('src', './img/' + name + '/' + name + pos[i] + '.png');
+//							j++;
+//						});
+//						i++;
+//						if (i == 3) {
+//							i=0;
+//						}
+//
+//						timer += 40;
+//						if (timer > 1000) {
+//							$('.topWord').show()
+//							$(".bi").hide();
+//							$("#light_left img").attr('src', './img/exp.gif'); 							
+//							$("#light img").attr('src', './img/ener.gif'); 							
+//							$("#light_right img").attr('src', './img/com.gif');
+//							clearInterval(intervalID);
+//						
+//							
+//						}
+//					}, 60)
+//				
+//			}
+//})
+//			$(function() {
+//				setTimeout('load()', 1000)
+//			})
+//			$(window).resize(function() {
+//				load();
+//			})
+//			function load() {
+////					alert(1);
+//				//	$('#box').addClass("link")
+//				//setTimeout("$('#light_left').addClass('blick1'); $('#light').addClass('blick2'); $('#light_right').addClass('blick3');", 10);
+//				if ($(document).width() < 1200) {
+//					setTimeout("$('#light_left').css({'background' : 'none', 'text-indent' : '0'}); \n\
+//								$('#light').css({'background' : 'none', 'text-indent' : '0'}); \n\
+//								$('#light_right').css({'background' : 'none', 'text-indent' : '0'});", 300);
+//				} else {
+//					setTimeout("$('#box').css({'background' : 'none', 'text-indent' : '0', 'overflow': 'auto'});", 100);
+//				}
+//
+//				setTimeout("$('#article').removeClass('none').addClass('fadeInUp').addClass('animated'); $('#sidebar').removeClass('none').addClass('fadeInDown').addClass('animated');", 1000);
+//				setTimeout("$('html').css({'overflow' : 'auto'}); $('body').css({'overflow' : 'auto'})", 3000);
+//			}
+		</script>
+	</body>
+</html>
