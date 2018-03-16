@@ -8,3 +8,7 @@ $ php -S localhost:9000
 ```
 
 see the page at: [localhost:9000](localhost:9000)
+
+
+For `user.passw`: contact repo admin.
+
