@@ -8,7 +8,7 @@ return array(
 
 	// preloading 'log' component
 	'preload'=>array('log'),
-
+	
 	// application components
 	'components'=>array(
 		'db'=>array(
