@@ -230,7 +230,7 @@ $(document).ready(function(){
             var popupContent = "<p><center>Industry:"+ "<br/>" 
                                 + feature.properties.CATEGORY+ "</center></p>";
             layer.bindPopup(popupContent);
-            console.log(layer);
+            // console.log(layer);
         }
 
         // Load Geojson Points using Native Leaflet
