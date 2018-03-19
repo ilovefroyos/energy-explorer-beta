@@ -40,8 +40,8 @@ return array(
 		// uncomment the following to enable URLs in path-format
 		
 		'urlManager'=>array(
-                        'showScriptName'=>false,
-			'urlFormat'=>'path',
+      'showScriptName'=>false,
+      'routeVar'=>'route',
 			'rules'=>array(
                                 /*
                                  * It is used for site/index left menu partial AJAX content
