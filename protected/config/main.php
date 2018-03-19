@@ -42,6 +42,7 @@ return array(
 		'urlManager'=>array(
       'showScriptName'=>false,
       'routeVar'=>'route',
+      'urlFormat'=>'path',
 			'rules'=>array(
                                 /*
                                  * It is used for site/index left menu partial AJAX content
