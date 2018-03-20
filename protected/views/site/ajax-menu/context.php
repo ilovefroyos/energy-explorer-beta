@@ -46,7 +46,7 @@ Neighbourhoods can save, generate and share energy</h3>
     <br/>
     <br/>
     <br/>
-      <img src="http://www.energyexplorer.ca/images/what_is_community_energy.svg" align="center" alt="img">
+      <img src="/images/what_is_community_energy.svg" align="center" alt="img">
 </div>
 
 <div id="part3">
@@ -62,11 +62,11 @@ Neighbourhoods can save, generate and share energy</h3>
         </div><br>
 <ul class="rslides" id="slider">
       <li>
-        <img src="http://www.energyexplorer.ca/images/context_fridge_ghg2.svg" alt="img">
+        <img src="/images/context_fridge_ghg2.svg" alt="img">
             
       </li>
       <li>
-        <img src="http://www.energyexplorer.ca/images/context_fridge_ghg1.svg" alt="img2" align="center">
+        <img src="/images/context_fridge_ghg1.svg" alt="img2" align="center">
        
       </li>
       </ul>  
@@ -81,7 +81,7 @@ Neighbourhoods can save, generate and share energy</h3>
        <div class="text">In response to the reality of climate change, British Columbia committed to taking action, and in 2007 showed world-wide leadership by legislated greenhouse gas emissions targets and other provincial and local government policies to help mitigate climate change. Municipalities in BC were quick to follow suit, and many have pledged to reduce their community-wide greenhouse gas emissions by up to 80% by 2050—our share of the worldwide reduction necessary to maintain an average global warming of 2 degrees.  
        </div>
     </div>
-<img class="imgposition" src="http://www.energyexplorer.ca/images/BCMap.svg" align="right" alt="img">
+<img class="imgposition" src="/images/BCMap.svg" align="right" alt="img">
 
 
     <div class="block-big-text-red">80% by 2050</div>    
@@ -99,7 +99,7 @@ Neighbourhoods can save, generate and share energy</h3>
     
 
         <div class="context_map">
-            <a href="http://www.energyexplorer.ca/home-energy/"target="_blank" class="btn-context-map">MAP HOME ENERGY USE</a>
+            <a href="/home-energy/" target="_blank" class="btn-context-map">MAP HOME ENERGY USE</a>
         </div>   
 </div>
 
@@ -117,11 +117,11 @@ Neighbourhoods can save, generate and share energy</h3>
        </div><br>
 <ul class="rslides" id="slider">
       <li>
-        <img src="http://www.energyexplorer.ca/images/Natural_Gas_Routes.svg" alt="img">
+        <img src="/images/Natural_Gas_Routes.svg" alt="img">
             
       </li>
       <li>
-        <img src="http://www.energyexplorer.ca/images/hydro_transmission.svg" alt="img2" align="center">
+        <img src="/images/hydro_transmission.svg" alt="img2" align="center">
        
       </li>
       </ul>  
@@ -146,11 +146,11 @@ Neighbourhoods can save, generate and share energy</h3>
     </div>
 <ul class="rslides" id="slider">
       <li>
-        <img src="http://www.energyexplorer.ca/images/corridor.png" alt="img">
+        <img src="/images/corridor.png" alt="img">
             <br><br>  
       </li>
       <li>
-        <img src="http://www.energyexplorer.ca/images/corridor_carbon.png" alt="img2" align="center">
+        <img src="/images/corridor_carbon.png" alt="img2" align="center">
        <br><br>
       </li>
       </ul>  
@@ -168,7 +168,7 @@ A district Energy system can generate heat and electricity for distribution     
              A district energy facility generates heat and sometimes elecrticity for distribution to local users. District energy is more energy efficient then using individual building furnaces for neighbourhoods with adequate density, and therefore reduces greenhouse gas emissions, especially when using renewable supplies.
        </div>
     </div>
-      <img  src="http://www.energyexplorer.ca/images/biomass_plant_rendering.jpg" align="center" alt="img">
+      <img  src="/images/biomass_plant_rendering.jpg" align="center" alt="img">
 </div>
         
 <div id="part7">        
@@ -185,11 +185,11 @@ A district Energy system can generate heat and electricity for distribution     
     <br>
 <ul class="rslides" id="slider">
       <li>
-        <img src="http://www.energyexplorer.ca/images/sankey2.svg" alt="img">
+        <img src="/images/sankey2.svg" alt="img">
             
       </li>
       <li>
-        <img src="http://www.energyexplorer.ca/images/sankey1.svg" alt="img2" align="center">
+        <img src="/images/sankey1.svg" alt="img2" align="center">
        
       </li>
       </ul> 
@@ -206,7 +206,7 @@ MANAGING ENERGY DEMAND – INDIVIDUAL ACTION        </h3>
              Individuals can change their energy behaviours by choosing actions like using more efficient light bulbs and Energy Star appliances in your home, putting on a sweater instead of turning up the heat, or retrofitting your house to improve its insulation.  According to BC Hydro, if you turn down your heat by just two degrees, you can reduce your home heating costs by 5%. 
        </div>
     </div>
-     <img  class ="img_context" src="http://www.energyexplorer.ca/images/thermostat.svg" align="center" alt="img">
+     <img  class ="img_context" src="/images/thermostat.svg" align="center" alt="img">
     </div>
         
         <div id="part8">
@@ -219,7 +219,7 @@ MANAGING ENERGY DEMAND – COLLECTIVE ACTION      </h3>
             Managing energy efficiency can also happen at the community-wide level (collective action). Municipalities can adopt land use and transportation plans and policies that place higher density homes close to services—and support transit, pedestrians and cyclists—to encourage people to drive less.   Higher densities also support more efficient and cost-effective community energy solutions, such as a district heating system.  With people living closer together, they will share building walls, which greatly reduces the amount of energy needed to heat a home.  Local governments can adopt policies and programs to assist homeowners in energy efficient upgrades, such as rebates or on-bill financing for the installation of energy efficient heating and hot water systems and building envelope improvements.  
        </div>
     </div>
-     <img  src="http://www.energyexplorer.ca/images/behavior.png" align="center" alt="img">
+     <img  src="/images/behavior.png" align="center" alt="img">
     </div>
         
         <div id="part8">
@@ -233,7 +233,7 @@ MANAGING ENERGY DEMAND – Managing Energy Supply       </h3>
        </div>
     </div>
   <div class="context_renewables">
-            <a href="http://www.energyexplorer.ca/renewables/" class="btn-context-renewables">EXPLORE RENEWABLE ENERGY</a>
+            <a href="/renewables/" class="btn-context-renewables">EXPLORE RENEWABLE ENERGY</a>
         </div>    <br><br><br><br><br><br><br>
     </div>
         

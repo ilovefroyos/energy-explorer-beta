@@ -85,7 +85,7 @@ $(document).scroll(function(){
         </div>
     </div>
 
-  <img class="imgposition2" src="http://www.energyexplorer.ca/images/solar_big.jpg" align="right" alt="img">
+  <img class="imgposition2" src="/images/solar_big.jpg" align="right" alt="img">
 
    <div class="block-big-text-green">Solar</div>
 </div>
@@ -111,13 +111,13 @@ $(document).scroll(function(){
     </div>    
      <ul class="rslides" id="slider">
       <li>
-        <img class="no_filter" src="http://www.energyexplorer.ca/images/Solar_Potential_Slide1.<?php echo $img;?>" alt="img">
+        <img class="no_filter" src="/images/Solar_Potential_Slide1.<?php echo $img;?>" alt="img">
             <div class="caprion_of_the_slider">
             <p>Photovoltaics in a solar farm can distribute energy in the form of electricity at larger scales</p>
             
       </li>
       <li>
-        <img src="http://www.energyexplorer.ca/images/Solar_Potential_Slide2.<?php echo $img;?>" alt="img2" align="center">
+        <img src="/images/Solar_Potential_Slide2.<?php echo $img;?>" alt="img2" align="center">
             <div class="caprion_of_the_slider">
             <p>Solar hot water can either heat the water supply or provide space heating</p>
        
@@ -145,19 +145,19 @@ $(document).scroll(function(){
      Solar Heat and Power
     </div>
     <div class="center_block">
-      <img class="no_filter" src="http://www.energyexplorer.ca/images/Solar_Potential_Potential.<?php echo $img;?>" align="center" alt="img">
+      <img class="no_filter" src="/images/Solar_Potential_Potential.<?php echo $img;?>" align="center" alt="img">
     </div>
     
 <?php /*
     <ul class="rslides" id="slider">
       <li>
-        <img class="no_filter" src="http://www.energyexplorer.ca/images/Solar_Potential_SunOrientation.<?php echo $img;?>" alt="img">
+        <img class="no_filter" src="/images/Solar_Potential_SunOrientation.<?php echo $img;?>" alt="img">
             <div class="caprion_of_the_slider">
             <p>Summer solar angle of incidence</p>
             
       </li>
       <li>
-        <img class="no_filter" src="http://www.energyexplorer.ca/images/Solar_Potential_SunOrientation2.<?php echo $img;?>" alt="img2" align="center">
+        <img class="no_filter" src="/images/Solar_Potential_SunOrientation2.<?php echo $img;?>" alt="img2" align="center">
             <div class="caprion_of_the_slider">
             <p>Winter solar angle of incidence</p>
        
@@ -197,7 +197,7 @@ $(document).scroll(function(){
     </div>
     <div class="inline_block">
 	<div class="span6">
-	       <img class="no_filter" src="http://www.energyexplorer.ca/images/SolarShade.<?php echo $img;?>" align="center" alt="">
+	       <img class="no_filter" src="/images/SolarShade.<?php echo $img;?>" align="center" alt="">
 	</div>
 
         <div class="span5">
@@ -223,7 +223,7 @@ This intermittency in energy output requires consideration of additional energy 
 	</div>
             </div>
 	<div class="span6 right">
-		<img class="no_filter" src="http://www.energyexplorer.ca/images/SolarIntermetency.<?php echo $img;?>" align="center" alt="" class="add_bull">
+		<img class="no_filter" src="/images/SolarIntermetency.<?php echo $img;?>" align="center" alt="" class="add_bull">
 	</div>
 
     </div>
@@ -248,7 +248,7 @@ This intermittency in energy output requires consideration of additional energy 
     
     <div class="center_block">
      <br/><br/><br/>
-     <img class="no_filter" src="http://www.energyexplorer.ca/images/Solar_Rooftop_Chart.<?php echo $img;?>" align="center" alt="img" >
+     <img class="no_filter" src="/images/Solar_Rooftop_Chart.<?php echo $img;?>" align="center" alt="img" >
        <br/>
        <br/>
     </div>
@@ -275,7 +275,7 @@ The cost of the project was about $500,000 and the airport reports energy saving
     <div class="label-right">
        solar hot water at yvr
     </div>
-      <img src="http://www.energyexplorer.ca/images/yvrhotwater-long.jpg" align="center" alt="img">
+      <img src="/images/yvrhotwater-long.jpg" align="center" alt="img">
 
     </div>
 
@@ -296,7 +296,7 @@ The cost of the project was about $500,000 and the airport reports energy saving
     <div class="label-left" style="margin-top:-120px;">
        T’Sou-ke Nation solar power 
     </div>
-      <img style="margin-top:-45px;" src="http://www.energyexplorer.ca/images/tsoukesolar-long.jpg" align="center" alt="img">
+      <img style="margin-top:-45px;" src="/images/tsoukesolar-long.jpg" align="center" alt="img">
    </div>
       
  </section>    
@@ -319,7 +319,7 @@ The cost of the project was about $500,000 and the airport reports energy saving
             While establishing wind energy may face challenges, technological developments can help overcome the barriers limiting their presence in our communities.  
         </div>
     </div>
-  <img class="imgposition2" src="http://www.energyexplorer.ca/images/wind_big.jpg" align="right" alt="img">
+  <img class="imgposition2" src="/images/wind_big.jpg" align="right" alt="img">
    <div class="block-big-text-green">
        Wind
     </div>
@@ -341,7 +341,7 @@ The cost of the project was about $500,000 and the airport reports energy saving
      Wind Farms harness power
     </div>
     <div class="center_block">
-      <img class="no_filter" src="http://www.energyexplorer.ca/images/wind_farm.<?php echo $img;?>" align="middle" alt="img">
+      <img class="no_filter" src="/images/wind_farm.<?php echo $img;?>" align="middle" alt="img">
     </div>
     
     <div class="label-left">
@@ -375,7 +375,7 @@ The cost of the project was about $500,000 and the airport reports energy saving
     <div class="label-right" style="margin-top:-180px;">
 	Wind Power in Dawson Creek
     </div>
-      <img style="margin-top:-100px;" src="http://www.energyexplorer.ca/images/windfarm-long.jpg" align="center" alt="img">
+      <img style="margin-top:-100px;" src="/images/windfarm-long.jpg" align="center" alt="img">
 
    </div>
 
@@ -399,7 +399,7 @@ The cost of the project was about $500,000 and the airport reports energy saving
             Hydropower is considered a valuable and "clean" source of electricity, providing in many cases a secure local energy supply and other value added activities like fishing and recreation.
         </div>
     </div>
-  <img class="imgposition2" src="http://www.energyexplorer.ca/images/fitzsimmonscreekROR-main.jpg" align="right" alt="img">
+  <img class="imgposition2" src="/images/fitzsimmonscreekROR-main.jpg" align="right" alt="img">
    <div class="block-big-text-green" >Run of River
 </div>
 </div>
@@ -539,7 +539,7 @@ Typically, ROR projects funnel a river's flow through electricity generating tur
     
     <div class="center_block">
 <!--     <br/><br/><br/>-->
-     <img class="no_filter" src="http://www.energyexplorer.ca/images/Hydro_GWH_Chart.<?php echo $img;?>" align="center" alt="img" >
+     <img class="no_filter" src="/images/Hydro_GWH_Chart.<?php echo $img;?>" align="center" alt="img" >
 <!--       <br/>
        <br/>-->
     </div>
@@ -563,7 +563,7 @@ Typically, ROR projects funnel a river's flow through electricity generating tur
     <div class="label-left">
 	Run of River at Fitzsimmons Creek
    </div>
-      <img src="http://www.energyexplorer.ca/images/fitzsimmons.jpg" align="center" alt="img">
+      <img src="/images/fitzsimmons.jpg" align="center" alt="img">
    </div>
             
 
@@ -589,7 +589,7 @@ Industrial heat recovery is a promising way to take waste and turn it into a usa
             There are various available methods that can capture the resulting heat energy from industrial processes.        </div>
     </div>    
 
-  <img class="imgposition2" src="http://www.energyexplorer.ca/images/heatrecovery.jpg" align="right" alt="img">
+  <img class="imgposition2" src="/images/heatrecovery.jpg" align="right" alt="img">
 
    <div class="block-big-text-green">Heat<br/> Recovery</div>
 </div>
@@ -618,7 +618,7 @@ Industrial heat recovery is a promising way to take waste and turn it into a usa
 	</div>
     </div>
 
-  <img class="imgposition2" src="http://www.energyexplorer.ca/images/bio_big.jpg" align="right" alt="img">
+  <img class="imgposition2" src="/images/bio_big.jpg" align="right" alt="img">
 
    <div class="block-big-text-green">Bioenergy</div>
 </div>
@@ -637,19 +637,19 @@ Sustainably harvested forest biomass can be used as a fuel for generating heat o
     </div>
     <ul class="rslides renewables_last" id="slider">
       <li>
-        <img class="no_filter" src="http://www.energyexplorer.ca/images/plant_wood.<?php echo $img;?>" alt="img">
+        <img class="no_filter" src="/images/plant_wood.<?php echo $img;?>" alt="img">
             <div class="caprion_of_the_slider">
             <p>Trees Planted</p>
             
       </li>
       <li>
-        <img class="no_filter" src="http://www.energyexplorer.ca/images/harvest_wood.<?php echo $img;?>" alt="img2" align="center">
+        <img class="no_filter" src="/images/harvest_wood.<?php echo $img;?>" alt="img2" align="center">
             <div class="caprion_of_the_slider">
             <p>Lower Quality Wood Extracted</p>
        
       </li>
       <li>
-        <img class="no_filter" src="http://www.energyexplorer.ca/images/process_wood.<?php echo $img;?>" alt="img2" align="center">
+        <img class="no_filter" src="/images/process_wood.<?php echo $img;?>" alt="img2" align="center">
             <div class="caprion_of_the_slider">
             <p>Wood Chips arrive at biomass plant</p>
        
