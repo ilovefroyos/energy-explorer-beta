@@ -25,7 +25,7 @@ return array(
 			'class'=>'system.gii.GiiModule',
 			'password'=>'admin',
 			// If removed, Gii defaults to localhost only. Edit carefully to taste.
-			'ipFilters'=>array('192.168.200.100','::1'),
+			'ipFilters'=>array('###.###.###.###','::1'),
 		),
 		'admin',
 		
@@ -62,10 +62,10 @@ return array(
 		// uncomment the following to use a MySQL database
 		
 		'db'=>array(
-			'connectionString' => 'mysql:host=gbksoft.com;dbname=cee_pilipenko',
+			'connectionString' => 'mysql:host=',
 			'emulatePrepare' => true,
-			'username' => 'pilipenko-dv',
-			'password' => 'p@ssword_pil',
+			'username' => '',
+			'password' => '',
 			'charset' => 'utf8',
 			'enableProfiling'=>true,
 		),
